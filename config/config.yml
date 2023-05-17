@@ -1,0 +1,8 @@
+metrics:
+  - profile: "GhostManager"
+    repos: [
+             "Ghostwriter",
+             "Ghostwriter_CLI",
+             "mythic_sync",
+             "cobalt_sync"
+    ]

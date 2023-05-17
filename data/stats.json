@@ -1,0 +1,566 @@
+{
+    "Ghostwriter": {
+        "2023-05-04": {
+            "traffic": {
+                "count": 139,
+                "unique": 47
+            },
+            "clones": {
+                "unique": 17,
+                "count": 26
+            },
+            "referrer": {}
+        },
+        "2023-05-05": {
+            "traffic": {
+                "count": 96,
+                "unique": 34
+            },
+            "clones": {
+                "unique": 5,
+                "count": 5
+            },
+            "referrer": {}
+        },
+        "2023-05-06": {
+            "traffic": {
+                "count": 36,
+                "unique": 20
+            },
+            "clones": {
+                "unique": 6,
+                "count": 7
+            },
+            "referrer": {}
+        },
+        "2023-05-07": {
+            "traffic": {
+                "count": 68,
+                "unique": 23
+            },
+            "clones": {
+                "unique": 8,
+                "count": 9
+            },
+            "referrer": {}
+        },
+        "2023-05-08": {
+            "traffic": {
+                "count": 131,
+                "unique": 47
+            },
+            "clones": {
+                "unique": 9,
+                "count": 18
+            },
+            "referrer": {}
+        },
+        "2023-05-09": {
+            "traffic": {
+                "count": 154,
+                "unique": 55
+            },
+            "clones": {
+                "unique": 11,
+                "count": 26
+            },
+            "referrer": {}
+        },
+        "2023-05-10": {
+            "traffic": {
+                "count": 149,
+                "unique": 54
+            },
+            "clones": {
+                "unique": 12,
+                "count": 21
+            },
+            "referrer": {}
+        },
+        "2023-05-11": {
+            "traffic": {
+                "count": 149,
+                "unique": 38
+            },
+            "clones": {
+                "unique": 13,
+                "count": 17
+            },
+            "referrer": {}
+        },
+        "2023-05-12": {
+            "traffic": {
+                "count": 141,
+                "unique": 35
+            },
+            "clones": {
+                "unique": 6,
+                "count": 8
+            },
+            "referrer": {}
+        },
+        "2023-05-13": {
+            "traffic": {
+                "count": 63,
+                "unique": 18
+            },
+            "clones": {
+                "unique": 5,
+                "count": 6
+            },
+            "referrer": {}
+        },
+        "2023-05-14": {
+            "traffic": {
+                "count": 41,
+                "unique": 27
+            },
+            "clones": {
+                "unique": 3,
+                "count": 5
+            },
+            "referrer": {}
+        },
+        "2023-05-15": {
+            "traffic": {
+                "count": 98,
+                "unique": 32
+            },
+            "clones": {
+                "unique": 9,
+                "count": 10
+            },
+            "referrer": {}
+        },
+        "2023-05-16": {
+            "traffic": {
+                "count": 202,
+                "unique": 37
+            },
+            "clones": {
+                "unique": 14,
+                "count": 17
+            },
+            "referrer": {}
+        },
+        "2023-05-17": {
+            "traffic": {
+                "count": 133,
+                "unique": 52
+            },
+            "clones": {
+                "unique": 8,
+                "count": 10
+            },
+            "referrer": {}
+        },
+        "forks": 143,
+        "totals": {
+            "clones": {
+                "count": 370,
+                "unique": 252
+            }
+        }
+    },
+    "Ghostwriter_CLI": {
+        "2023-05-04": {
+            "traffic": {
+                "count": 2,
+                "unique": 2
+            },
+            "clones": {
+                "unique": 42,
+                "count": 59
+            },
+            "referrer": {}
+        },
+        "2023-05-05": {
+            "traffic": {
+                "count": 2,
+                "unique": 2
+            },
+            "clones": {
+                "unique": 15,
+                "count": 17
+            },
+            "referrer": {}
+        },
+        "2023-05-07": {
+            "traffic": {
+                "count": 1,
+                "unique": 1
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {}
+        },
+        "2023-05-08": {
+            "traffic": {
+                "count": 3,
+                "unique": 2
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {}
+        },
+        "2023-05-09": {
+            "traffic": {
+                "count": 3,
+                "unique": 2
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {}
+        },
+        "2023-05-10": {
+            "traffic": {
+                "count": 1,
+                "unique": 1
+            },
+            "clones": {
+                "unique": 34,
+                "count": 42
+            },
+            "referrer": {}
+        },
+        "2023-05-14": {
+            "traffic": {
+                "count": 4,
+                "unique": 2
+            },
+            "clones": {
+                "unique": 21,
+                "count": 31
+            },
+            "referrer": {}
+        },
+        "2023-05-16": {
+            "traffic": {
+                "count": 5,
+                "unique": 2
+            },
+            "clones": {
+                "unique": 45,
+                "count": 59
+            },
+            "referrer": {}
+        },
+        "2023-05-17": {
+            "traffic": {
+                "count": 2,
+                "unique": 2
+            },
+            "clones": {
+                "unique": 13,
+                "count": 18
+            },
+            "referrer": {}
+        },
+        "2023-05-03": {
+            "clones": {
+                "unique": 3,
+                "count": 3
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            },
+            "referrer": {}
+        },
+        "2023-05-11": {
+            "clones": {
+                "unique": 38,
+                "count": 59
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            },
+            "referrer": {}
+        },
+        "2023-05-12": {
+            "clones": {
+                "unique": 36,
+                "count": 59
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            },
+            "referrer": {}
+        },
+        "2023-05-13": {
+            "clones": {
+                "unique": 15,
+                "count": 17
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            },
+            "referrer": {}
+        },
+        "2023-05-15": {
+            "clones": {
+                "unique": 39,
+                "count": 60
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            },
+            "referrer": {}
+        },
+        "forks": 1,
+        "totals": {
+            "clones": {
+                "count": 848,
+                "unique": 602
+            }
+        }
+    },
+    "mythic_sync": {
+        "2023-05-04": {
+            "traffic": {
+                "count": 11,
+                "unique": 3
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {}
+        },
+        "2023-05-05": {
+            "traffic": {
+                "count": 1,
+                "unique": 1
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {}
+        },
+        "2023-05-08": {
+            "traffic": {
+                "count": 6,
+                "unique": 3
+            },
+            "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "referrer": {}
+        },
+        "2023-05-09": {
+            "traffic": {
+                "count": 7,
+                "unique": 2
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {}
+        },
+        "2023-05-10": {
+            "traffic": {
+                "count": 32,
+                "unique": 4
+            },
+            "clones": {
+                "unique": 2,
+                "count": 10
+            },
+            "referrer": {}
+        },
+        "2023-05-11": {
+            "traffic": {
+                "count": 20,
+                "unique": 5
+            },
+            "clones": {
+                "unique": 6,
+                "count": 9
+            },
+            "referrer": {}
+        },
+        "2023-05-14": {
+            "traffic": {
+                "count": 1,
+                "unique": 1
+            },
+            "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "referrer": {}
+        },
+        "2023-05-15": {
+            "traffic": {
+                "count": 1,
+                "unique": 1
+            },
+            "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "referrer": {}
+        },
+        "2023-05-16": {
+            "traffic": {
+                "count": 2,
+                "unique": 2
+            },
+            "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "referrer": {}
+        },
+        "2023-05-17": {
+            "traffic": {
+                "count": 43,
+                "unique": 3
+            },
+            "clones": {
+                "unique": 8,
+                "count": 26
+            },
+            "referrer": {}
+        },
+        "forks": 6,
+        "totals": {
+            "clones": {
+                "count": 98,
+                "unique": 40
+            }
+        }
+    },
+    "cobalt_sync": {
+        "2023-05-04": {
+            "traffic": {
+                "count": 2,
+                "unique": 1
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {}
+        },
+        "2023-05-05": {
+            "traffic": {
+                "count": 3,
+                "unique": 1
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {}
+        },
+        "2023-05-08": {
+            "traffic": {
+                "count": 2,
+                "unique": 2
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {}
+        },
+        "2023-05-09": {
+            "traffic": {
+                "count": 1,
+                "unique": 1
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {}
+        },
+        "2023-05-10": {
+            "traffic": {
+                "count": 1,
+                "unique": 1
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {}
+        },
+        "2023-05-11": {
+            "traffic": {
+                "count": 21,
+                "unique": 2
+            },
+            "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "referrer": {}
+        },
+        "2023-05-12": {
+            "traffic": {
+                "count": 2,
+                "unique": 2
+            },
+            "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "referrer": {}
+        },
+        "2023-05-16": {
+            "traffic": {
+                "count": 2,
+                "unique": 2
+            },
+            "clones": {
+                "unique": 2,
+                "count": 2
+            },
+            "referrer": {}
+        },
+        "2023-05-17": {
+            "referrer": {},
+            "clones": {
+                "unique": 5,
+                "count": 5
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
+        },
+        "2023-05-15": {
+            "clones": {
+                "unique": 2,
+                "count": 2
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            },
+            "referrer": {}
+        },
+        "forks": 7,
+        "totals": {
+            "clones": {
+                "count": 22,
+                "unique": 22
+            }
+        }
+    }
+}
