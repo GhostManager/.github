@@ -157,8 +157,8 @@
         "forks": 143,
         "totals": {
             "clones": {
-                "count": 555,
-                "unique": 378
+                "count": 740,
+                "unique": 504
             }
         }
     },
@@ -320,8 +320,8 @@
         "forks": 1,
         "totals": {
             "clones": {
-                "count": 1272,
-                "unique": 903
+                "count": 1696,
+                "unique": 1204
             }
         }
     },
@@ -439,8 +439,8 @@
         "forks": 6,
         "totals": {
             "clones": {
-                "count": 147,
-                "unique": 60
+                "count": 196,
+                "unique": 80
             }
         }
     },
@@ -558,8 +558,8 @@
         "forks": 7,
         "totals": {
             "clones": {
-                "count": 33,
-                "unique": 33
+                "count": 44,
+                "unique": 44
             }
         }
     }
