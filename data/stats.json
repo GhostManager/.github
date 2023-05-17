@@ -145,7 +145,7 @@
         },
         "2023-05-17": {
             "traffic": {
-                "count": 133,
+                "count": 135,
                 "unique": 52
             },
             "clones": {
@@ -157,8 +157,8 @@
         "forks": 143,
         "totals": {
             "clones": {
-                "count": 370,
-                "unique": 252
+                "count": 555,
+                "unique": 378
             }
         }
     },
@@ -320,8 +320,8 @@
         "forks": 1,
         "totals": {
             "clones": {
-                "count": 848,
-                "unique": 602
+                "count": 1272,
+                "unique": 903
             }
         }
     },
@@ -427,8 +427,8 @@
         },
         "2023-05-17": {
             "traffic": {
-                "count": 43,
-                "unique": 3
+                "count": 44,
+                "unique": 4
             },
             "clones": {
                 "unique": 8,
@@ -439,8 +439,8 @@
         "forks": 6,
         "totals": {
             "clones": {
-                "count": 98,
-                "unique": 40
+                "count": 147,
+                "unique": 60
             }
         }
     },
@@ -558,8 +558,8 @@
         "forks": 7,
         "totals": {
             "clones": {
-                "count": 22,
-                "unique": 22
+                "count": 33,
+                "unique": 33
             }
         }
     }
