@@ -13,12 +13,12 @@
         },
         "2023-05-05": {
             "traffic": {
-                "count": 96,
-                "unique": 34
+                "count": 3,
+                "unique": 3
             },
             "clones": {
-                "unique": 5,
-                "count": 5
+                "unique": 1,
+                "count": 1
             },
             "referrer": {}
         },
@@ -157,18 +157,29 @@
         "forks": 143,
         "totals": {
             "clones": {
-                "count": 919,
-                "unique": 629
+                "count": 1104,
+                "unique": 759
             }
         },
         "2023-05-18": {
             "traffic": {
-                "count": 53,
-                "unique": 26
+                "count": 89,
+                "unique": 41
             },
             "clones": {
-                "unique": 7,
-                "count": 9
+                "unique": 8,
+                "count": 11
+            },
+            "referrer": {}
+        },
+        "2023-05-19": {
+            "traffic": {
+                "count": 72,
+                "unique": 28
+            },
+            "clones": {
+                "unique": 8,
+                "count": 8
             },
             "referrer": {}
         }
@@ -331,8 +342,8 @@
         "forks": 1,
         "totals": {
             "clones": {
-                "count": 2080,
-                "unique": 1482
+                "count": 2464,
+                "unique": 1760
             }
         },
         "2023-05-18": {
@@ -340,6 +351,17 @@
             "clones": {
                 "unique": 2,
                 "count": 2
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
+        },
+        "2023-05-19": {
+            "referrer": {},
+            "clones": {
+                "unique": 0,
+                "count": 0
             },
             "traffic": {
                 "count": 0,
@@ -461,14 +483,25 @@
         "forks": 6,
         "totals": {
             "clones": {
-                "count": 246,
-                "unique": 101
+                "count": 297,
+                "unique": 123
             }
         },
         "2023-05-18": {
             "traffic": {
                 "count": 4,
                 "unique": 3
+            },
+            "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "referrer": {}
+        },
+        "2023-05-19": {
+            "traffic": {
+                "count": 1,
+                "unique": 1
             },
             "clones": {
                 "unique": 1,
@@ -591,8 +624,8 @@
         "forks": 7,
         "totals": {
             "clones": {
-                "count": 55,
-                "unique": 55
+                "count": 67,
+                "unique": 67
             }
         },
         "2023-05-18": {
@@ -600,6 +633,17 @@
             "clones": {
                 "unique": 0,
                 "count": 0
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
+        },
+        "2023-05-19": {
+            "referrer": {},
+            "clones": {
+                "unique": 1,
+                "count": 1
             },
             "traffic": {
                 "count": 0,
