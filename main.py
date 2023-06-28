@@ -46,9 +46,32 @@ if __name__ == '__main__':
             today = datetime.today().strftime("%Y-%m-%d")
 
             views = metrics.get_views()
-            referrers = metrics.get_referrers()
+            view_sources = metrics.get_referrers()
             clones = metrics.get_clones()
             forks = metrics.get_forks()
+
+            for clone in clones["clones"]:
+                cur_time = datetime.strptime(clone["timestamp"].split("T")[0], "%Y-%m-%d").date().strftime("%Y-%m-%d")
+                if cur_time in stats_data[repo]:
+                    stats_data[repo][cur_time] = {
+                        **stats_data[repo][cur_time],
+                        "clones": {
+                            "unique": clone["uniques"],
+                            "count": clone["count"]
+                        }
+                    }
+                else:
+                    stats_data[repo][cur_time] = {
+                        "clones": {
+                            "unique": clone["uniques"],
+                            "count": clone["count"]
+                        },
+                        "traffic": {
+                            "count": 0,
+                            "unique": 0
+                        },
+                        "referrer": {}
+                    }
 
             for view in views["views"]:
                 cur_time = datetime.strptime(view["timestamp"].split("T")[0], "%Y-%m-%d").date().strftime("%Y-%m-%d")
@@ -74,7 +97,7 @@ if __name__ == '__main__':
                     }
 
             referrers = {}
-            for ref in referrers:
+            for ref in view_sources:
                 referrers[ref["referrer"]] = {
                     "count": ref["count"],
                     "unique": ref["uniques"]
@@ -96,29 +119,6 @@ if __name__ == '__main__':
                         "unique": 0,
                     },
                 }
-
-            for clone in clones["clones"]:
-                cur_time = datetime.strptime(clone["timestamp"].split("T")[0], "%Y-%m-%d").date().strftime("%Y-%m-%d")
-                if cur_time in stats_data[repo]:
-                    stats_data[repo][cur_time] = {
-                        **stats_data[repo][cur_time],
-                        "clones": {
-                            "unique": clone["uniques"],
-                            "count": clone["count"]
-                        }
-                    }
-                else:
-                    stats_data[repo][cur_time] = {
-                        "clones": {
-                            "unique": clone["uniques"],
-                            "count": clone["count"]
-                        },
-                        "traffic": {
-                            "count": 0,
-                            "unique": 0
-                        },
-                        "referrer": {}
-                    }
 
             stats_data[repo]["forks"] = len(forks)
 
