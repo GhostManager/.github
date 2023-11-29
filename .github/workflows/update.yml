@@ -3,7 +3,7 @@ name: Fetch the Latest Insights Data
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 18 * * 5'
+    - cron: '0 18 * * *'
   push:
     branches:
       - main
