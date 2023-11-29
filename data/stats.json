@@ -157,8 +157,8 @@
         "forks": 159,
         "totals": {
             "clones": {
-                "count": 41184,
-                "unique": 27270
+                "count": 44153,
+                "unique": 29070
             }
         },
         "2023-05-18": {
@@ -3015,12 +3015,12 @@
         },
         "2023-11-15": {
             "clones": {
-                "unique": 5,
-                "count": 7
+                "unique": 2,
+                "count": 2
             },
             "traffic": {
-                "count": 14,
-                "unique": 8
+                "count": 5,
+                "unique": 5
             },
             "referrer": {}
         },
@@ -3210,12 +3210,12 @@
         },
         "2023-11-29": {
             "clones": {
-                "unique": 5,
-                "count": 8
+                "unique": 9,
+                "count": 18
             },
             "traffic": {
-                "count": 72,
-                "unique": 36
+                "count": 141,
+                "unique": 44
             },
             "referrer": {
                 "Google": {
@@ -3419,8 +3419,8 @@
         "forks": 3,
         "totals": {
             "clones": {
-                "count": 50761,
-                "unique": 33098
+                "count": 52858,
+                "unique": 34447
             }
         },
         "2023-05-18": {
@@ -5786,8 +5786,8 @@
         "forks": 8,
         "totals": {
             "clones": {
-                "count": 4424,
-                "unique": 3131
+                "count": 4642,
+                "unique": 3297
             }
         },
         "2023-05-18": {
@@ -7624,7 +7624,7 @@
                 "count": 1
             },
             "traffic": {
-                "count": 11,
+                "count": 5,
                 "unique": 1
             },
             "referrer": {}
@@ -7751,7 +7751,7 @@
         },
         "2023-11-29": {
             "traffic": {
-                "count": 3,
+                "count": 4,
                 "unique": 1
             },
             "clones": {
@@ -7888,8 +7888,8 @@
         "forks": 10,
         "totals": {
             "clones": {
-                "count": 1853,
-                "unique": 1576
+                "count": 2007,
+                "unique": 1700
             }
         },
         "2023-05-18": {
@@ -9645,8 +9645,8 @@
                 "count": 0
             },
             "traffic": {
-                "count": 0,
-                "unique": 0
+                "count": 2,
+                "unique": 1
             }
         }
     }
