@@ -154,11 +154,11 @@
             },
             "referrer": {}
         },
-        "forks": 179,
+        "forks": 183,
         "totals": {
             "clones": {
-                "count": 912088,
-                "unique": 564890
+                "count": 916383,
+                "unique": 567445
             }
         },
         "2023-05-18": {
@@ -14910,12 +14910,12 @@
         },
         "2024-07-11": {
             "clones": {
-                "unique": 8,
-                "count": 17
+                "unique": 2,
+                "count": 2
             },
             "traffic": {
-                "count": 259,
-                "unique": 94
+                "count": 110,
+                "unique": 42
             },
             "referrer": {
                 "Google": {
@@ -15586,12 +15586,12 @@
         },
         "2024-07-24": {
             "clones": {
-                "unique": 8,
-                "count": 8
+                "unique": 12,
+                "count": 31
             },
             "traffic": {
-                "count": 274,
-                "unique": 50
+                "count": 434,
+                "unique": 105
             },
             "referrer": {
                 "Google": {
@@ -15633,6 +15633,58 @@
                 "statics.teams.cdn.office.net": {
                     "count": 25,
                     "unique": 6
+                }
+            }
+        },
+        "2024-07-25": {
+            "clones": {
+                "unique": 5,
+                "count": 13
+            },
+            "traffic": {
+                "count": 620,
+                "unique": 199
+            },
+            "referrer": {
+                "Google": {
+                    "count": 711,
+                    "unique": 187
+                },
+                "github.com": {
+                    "count": 247,
+                    "unique": 70
+                },
+                "academy.hackthebox.com": {
+                    "count": 195,
+                    "unique": 112
+                },
+                "DuckDuckGo": {
+                    "count": 71,
+                    "unique": 24
+                },
+                "ghostwriter.wiki": {
+                    "count": 58,
+                    "unique": 15
+                },
+                "youtube.com": {
+                    "count": 37,
+                    "unique": 2
+                },
+                "com.google.android.gm": {
+                    "count": 26,
+                    "unique": 11
+                },
+                "statics.teams.cdn.office.net": {
+                    "count": 25,
+                    "unique": 6
+                },
+                "posts.specterops.io": {
+                    "count": 21,
+                    "unique": 9
+                },
+                "Bing": {
+                    "count": 19,
+                    "unique": 12
                 }
             }
         }
@@ -15795,8 +15847,8 @@
         "forks": 3,
         "totals": {
             "clones": {
-                "count": 589400,
-                "unique": 380075
+                "count": 591684,
+                "unique": 381557
             }
         },
         "2023-05-18": {
@@ -24210,6 +24262,34 @@
                 "count": 0,
                 "unique": 0
             }
+        },
+        "2024-07-25": {
+            "referrer": {
+                "github.com": {
+                    "count": 17,
+                    "unique": 2
+                },
+                "Google": {
+                    "count": 14,
+                    "unique": 3
+                },
+                "ghostwriter.wiki": {
+                    "count": 9,
+                    "unique": 4
+                },
+                "specterops.io": {
+                    "count": 3,
+                    "unique": 1
+                }
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
         }
     },
     "mythic_sync": {
@@ -24326,8 +24406,8 @@
         "forks": 8,
         "totals": {
             "clones": {
-                "count": 88139,
-                "unique": 65688
+                "count": 88561,
+                "unique": 66009
             }
         },
         "2023-05-18": {
@@ -32183,6 +32263,22 @@
                 "count": 0,
                 "unique": 0
             }
+        },
+        "2024-07-25": {
+            "referrer": {
+                "Google": {
+                    "count": 10,
+                    "unique": 3
+                }
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
         }
     },
     "cobalt_sync": {
@@ -32299,8 +32395,8 @@
         "forks": 10,
         "totals": {
             "clones": {
-                "count": 63629,
-                "unique": 53219
+                "count": 63950,
+                "unique": 53493
             }
         },
         "2023-05-18": {
@@ -39977,6 +40073,34 @@
                 "github.com": {
                     "count": 2,
                     "unique": 2
+                }
+            },
+            "clones": {
+                "unique": 2,
+                "count": 2
+            },
+            "traffic": {
+                "count": 4,
+                "unique": 1
+            }
+        },
+        "2024-07-25": {
+            "referrer": {
+                "Google": {
+                    "count": 32,
+                    "unique": 1
+                },
+                "DuckDuckGo": {
+                    "count": 5,
+                    "unique": 1
+                },
+                "ghostwriter.wiki": {
+                    "count": 2,
+                    "unique": 2
+                },
+                "github.com": {
+                    "count": 1,
+                    "unique": 1
                 }
             },
             "clones": {
