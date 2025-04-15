@@ -157,8 +157,8 @@
         "forks": 205,
         "totals": {
             "clones": {
-                "count": 2274015,
-                "unique": 1318777
+                "count": 2280399,
+                "unique": 1322283
             }
         },
         "2023-05-18": {
@@ -28351,12 +28351,12 @@
         },
         "2025-04-01": {
             "clones": {
-                "unique": 15,
-                "count": 19
+                "unique": 5,
+                "count": 6
             },
             "traffic": {
-                "count": 143,
-                "unique": 59
+                "count": 18,
+                "unique": 9
             },
             "referrer": {
                 "Google": {
@@ -29027,12 +29027,12 @@
         },
         "2025-04-14": {
             "clones": {
-                "unique": 7,
-                "count": 10
+                "unique": 17,
+                "count": 28
             },
             "traffic": {
-                "count": 102,
-                "unique": 47
+                "count": 149,
+                "unique": 69
             },
             "referrer": {
                 "Google": {
@@ -29074,6 +29074,58 @@
                 "statics.teams.cdn.office.net": {
                     "count": 10,
                     "unique": 10
+                }
+            }
+        },
+        "2025-04-15": {
+            "clones": {
+                "unique": 16,
+                "count": 19
+            },
+            "traffic": {
+                "count": 172,
+                "unique": 64
+            },
+            "referrer": {
+                "Google": {
+                    "count": 832,
+                    "unique": 233
+                },
+                "academy.hackthebox.com": {
+                    "count": 169,
+                    "unique": 114
+                },
+                "github.com": {
+                    "count": 94,
+                    "unique": 31
+                },
+                "posts.specterops.io": {
+                    "count": 41,
+                    "unique": 15
+                },
+                "chatgpt.com": {
+                    "count": 28,
+                    "unique": 5
+                },
+                "Bing": {
+                    "count": 25,
+                    "unique": 17
+                },
+                "DuckDuckGo": {
+                    "count": 19,
+                    "unique": 13
+                },
+                "search.brave.com": {
+                    "count": 17,
+                    "unique": 12
+                },
+                "specterops.io": {
+                    "count": 9,
+                    "unique": 9
+                },
+                "statics.teams.cdn.office.net": {
+                    "count": 9,
+                    "unique": 9
                 }
             }
         }
@@ -29236,8 +29288,8 @@
         "forks": 4,
         "totals": {
             "clones": {
-                "count": 1207694,
-                "unique": 780028
+                "count": 1210238,
+                "unique": 781671
             }
         },
         "2023-05-18": {
@@ -44852,16 +44904,40 @@
         },
         "2025-04-14": {
             "traffic": {
-                "count": 5,
-                "unique": 2
+                "count": 38,
+                "unique": 3
             },
             "clones": {
-                "unique": 0,
-                "count": 0
+                "unique": 9,
+                "count": 25
             },
             "referrer": {
                 "Google": {
                     "count": 18,
+                    "unique": 7
+                },
+                "github.com": {
+                    "count": 10,
+                    "unique": 2
+                },
+                "specterops.io": {
+                    "count": 2,
+                    "unique": 1
+                }
+            }
+        },
+        "2025-04-15": {
+            "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            },
+            "referrer": {
+                "Google": {
+                    "count": 19,
                     "unique": 7
                 },
                 "github.com": {
@@ -44989,8 +45065,8 @@
         "forks": 8,
         "totals": {
             "clones": {
-                "count": 209335,
-                "unique": 159359
+                "count": 209880,
+                "unique": 159787
             }
         },
         "2023-05-18": {
@@ -58625,8 +58701,8 @@
         },
         "2025-04-01": {
             "traffic": {
-                "count": 4,
-                "unique": 3
+                "count": 1,
+                "unique": 1
             },
             "clones": {
                 "unique": 0,
@@ -58902,6 +58978,26 @@
                     "unique": 1
                 }
             }
+        },
+        "2025-04-15": {
+            "traffic": {
+                "count": 3,
+                "unique": 2
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {
+                "Google": {
+                    "count": 5,
+                    "unique": 3
+                },
+                "github.com": {
+                    "count": 1,
+                    "unique": 1
+                }
+            }
         }
     },
     "cobalt_sync": {
@@ -59018,8 +59114,8 @@
         "forks": 11,
         "totals": {
             "clones": {
-                "count": 158049,
-                "unique": 133320
+                "count": 158475,
+                "unique": 133681
             }
         },
         "2023-05-18": {
@@ -72383,13 +72479,37 @@
                 "count": 2
             },
             "traffic": {
-                "count": 10,
+                "count": 11,
                 "unique": 1
             },
             "referrer": {
                 "Google": {
                     "count": 7,
                     "unique": 4
+                },
+                "github.com": {
+                    "count": 2,
+                    "unique": 2
+                },
+                "ghostwriter.wiki": {
+                    "count": 1,
+                    "unique": 1
+                }
+            }
+        },
+        "2025-04-15": {
+            "traffic": {
+                "count": 2,
+                "unique": 1
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {
+                "Google": {
+                    "count": 11,
+                    "unique": 3
                 },
                 "github.com": {
                     "count": 2,
