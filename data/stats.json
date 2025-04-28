@@ -157,8 +157,8 @@
         "forks": 209,
         "totals": {
             "clones": {
-                "count": 2357666,
-                "unique": 1364452
+                "count": 2364167,
+                "unique": 1367985
             }
         },
         "2023-05-18": {
@@ -29027,12 +29027,12 @@
         },
         "2025-04-14": {
             "clones": {
-                "unique": 17,
-                "count": 28
+                "unique": 2,
+                "count": 2
             },
             "traffic": {
-                "count": 149,
-                "unique": 69
+                "count": 21,
+                "unique": 14
             },
             "referrer": {
                 "Google": {
@@ -29703,12 +29703,12 @@
         },
         "2025-04-27": {
             "clones": {
-                "unique": 2,
-                "count": 2
+                "unique": 3,
+                "count": 3
             },
             "traffic": {
-                "count": 20,
-                "unique": 14
+                "count": 39,
+                "unique": 30
             },
             "referrer": {
                 "Google": {
@@ -29746,6 +29746,58 @@
                 "search.brave.com": {
                     "count": 12,
                     "unique": 9
+                },
+                "statics.teams.cdn.office.net": {
+                    "count": 5,
+                    "unique": 5
+                }
+            }
+        },
+        "2025-04-28": {
+            "clones": {
+                "unique": 8,
+                "count": 12
+            },
+            "traffic": {
+                "count": 98,
+                "unique": 42
+            },
+            "referrer": {
+                "Google": {
+                    "count": 566,
+                    "unique": 214
+                },
+                "academy.hackthebox.com": {
+                    "count": 157,
+                    "unique": 98
+                },
+                "github.com": {
+                    "count": 54,
+                    "unique": 32
+                },
+                "DuckDuckGo": {
+                    "count": 51,
+                    "unique": 24
+                },
+                "posts.specterops.io": {
+                    "count": 19,
+                    "unique": 5
+                },
+                "Bing": {
+                    "count": 15,
+                    "unique": 10
+                },
+                "specterops.io": {
+                    "count": 13,
+                    "unique": 8
+                },
+                "chatgpt.com": {
+                    "count": 12,
+                    "unique": 9
+                },
+                "search.brave.com": {
+                    "count": 11,
+                    "unique": 8
                 },
                 "statics.teams.cdn.office.net": {
                     "count": 5,
@@ -29912,8 +29964,8 @@
         "forks": 4,
         "totals": {
             "clones": {
-                "count": 1240852,
-                "unique": 801469
+                "count": 1243411,
+                "unique": 803125
             }
         },
         "2023-05-18": {
@@ -45528,8 +45580,8 @@
         },
         "2025-04-14": {
             "traffic": {
-                "count": 38,
-                "unique": 3
+                "count": 33,
+                "unique": 1
             },
             "clones": {
                 "unique": 9,
@@ -45873,6 +45925,34 @@
                 "count": 0,
                 "unique": 0
             }
+        },
+        "2025-04-28": {
+            "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            },
+            "referrer": {
+                "github.com": {
+                    "count": 8,
+                    "unique": 1
+                },
+                "Google": {
+                    "count": 1,
+                    "unique": 1
+                },
+                "search.brave.com": {
+                    "count": 1,
+                    "unique": 1
+                },
+                "specterops.io": {
+                    "count": 1,
+                    "unique": 1
+                }
+            }
         }
     },
     "mythic_sync": {
@@ -45989,8 +46069,8 @@
         "forks": 8,
         "totals": {
             "clones": {
-                "count": 216499,
-                "unique": 164995
+                "count": 217051,
+                "unique": 165429
             }
         },
         "2023-05-18": {
@@ -60234,6 +60314,34 @@
                 "count": 0,
                 "unique": 0
             }
+        },
+        "2025-04-28": {
+            "referrer": {
+                "github.com": {
+                    "count": 14,
+                    "unique": 1
+                },
+                "Google": {
+                    "count": 6,
+                    "unique": 5
+                },
+                "specterops.io": {
+                    "count": 4,
+                    "unique": 2
+                },
+                "DuckDuckGo": {
+                    "count": 2,
+                    "unique": 1
+                }
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
         }
     },
     "cobalt_sync": {
@@ -60350,8 +60458,8 @@
         "forks": 11,
         "totals": {
             "clones": {
-                "count": 163642,
-                "unique": 138068
+                "count": 164076,
+                "unique": 138437
             }
         },
         "2023-05-18": {
@@ -74077,6 +74185,30 @@
                 },
                 "github.com": {
                     "count": 1,
+                    "unique": 1
+                }
+            }
+        },
+        "2025-04-28": {
+            "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "traffic": {
+                "count": 1,
+                "unique": 1
+            },
+            "referrer": {
+                "github.com": {
+                    "count": 3,
+                    "unique": 2
+                },
+                "Google": {
+                    "count": 2,
+                    "unique": 2
+                },
+                "zzmail01-cluster.belastingdienst.nl": {
+                    "count": 2,
                     "unique": 1
                 }
             }
