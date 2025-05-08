@@ -157,8 +157,8 @@
         "forks": 211,
         "totals": {
             "clones": {
-                "count": 2416423,
-                "unique": 1396413
+                "count": 2422925,
+                "unique": 1399966
             }
         },
         "2023-05-18": {
@@ -29547,12 +29547,12 @@
         },
         "2025-04-24": {
             "clones": {
-                "unique": 13,
-                "count": 21
+                "unique": 2,
+                "count": 2
             },
             "traffic": {
-                "count": 194,
-                "unique": 76
+                "count": 12,
+                "unique": 11
             },
             "referrer": {
                 "Google": {
@@ -30182,12 +30182,12 @@
         },
         "2025-05-07": {
             "clones": {
-                "unique": 7,
-                "count": 8
+                "unique": 11,
+                "count": 14
             },
             "traffic": {
-                "count": 86,
-                "unique": 48
+                "count": 117,
+                "unique": 59
             },
             "referrer": {
                 "Google": {
@@ -30225,6 +30225,58 @@
                 "statics.teams.cdn.office.net": {
                     "count": 10,
                     "unique": 7
+                },
+                "enterprise.hackthebox.com": {
+                    "count": 10,
+                    "unique": 2
+                }
+            }
+        },
+        "2025-05-08": {
+            "clones": {
+                "unique": 5,
+                "count": 7
+            },
+            "traffic": {
+                "count": 58,
+                "unique": 29
+            },
+            "referrer": {
+                "Google": {
+                    "count": 395,
+                    "unique": 164
+                },
+                "github.com": {
+                    "count": 142,
+                    "unique": 29
+                },
+                "academy.hackthebox.com": {
+                    "count": 128,
+                    "unique": 92
+                },
+                "DuckDuckGo": {
+                    "count": 63,
+                    "unique": 14
+                },
+                "Bing": {
+                    "count": 22,
+                    "unique": 14
+                },
+                "search.brave.com": {
+                    "count": 16,
+                    "unique": 6
+                },
+                "specterops.io": {
+                    "count": 14,
+                    "unique": 10
+                },
+                "statics.teams.cdn.office.net": {
+                    "count": 11,
+                    "unique": 8
+                },
+                "chatgpt.com": {
+                    "count": 11,
+                    "unique": 3
                 },
                 "enterprise.hackthebox.com": {
                     "count": 10,
@@ -30391,8 +30443,8 @@
         "forks": 4,
         "totals": {
             "clones": {
-                "count": 1263900,
-                "unique": 816390
+                "count": 1266465,
+                "unique": 818052
             }
         },
         "2023-05-18": {
@@ -46542,7 +46594,7 @@
         },
         "2025-05-07": {
             "traffic": {
-                "count": 19,
+                "count": 20,
                 "unique": 4
             },
             "clones": {
@@ -46556,6 +46608,26 @@
                 },
                 "search.brave.com": {
                     "count": 1,
+                    "unique": 1
+                }
+            }
+        },
+        "2025-05-08": {
+            "clones": {
+                "unique": 2,
+                "count": 2
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            },
+            "referrer": {
+                "Google": {
+                    "count": 20,
+                    "unique": 6
+                },
+                "github.com": {
+                    "count": 2,
                     "unique": 1
                 }
             }
@@ -46675,8 +46747,8 @@
         "forks": 8,
         "totals": {
             "clones": {
-                "count": 221496,
-                "unique": 168930
+                "count": 222053,
+                "unique": 169369
             }
         },
         "2023-05-18": {
@@ -61167,6 +61239,26 @@
                     "unique": 2
                 }
             }
+        },
+        "2025-05-08": {
+            "referrer": {
+                "Google": {
+                    "count": 2,
+                    "unique": 2
+                },
+                "github.com": {
+                    "count": 2,
+                    "unique": 2
+                }
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
         }
     },
     "cobalt_sync": {
@@ -61283,8 +61375,8 @@
         "forks": 11,
         "totals": {
             "clones": {
-                "count": 167589,
-                "unique": 141430
+                "count": 168032,
+                "unique": 141808
             }
         },
         "2023-05-18": {
@@ -74920,8 +75012,8 @@
                 "count": 1
             },
             "traffic": {
-                "count": 2,
-                "unique": 2
+                "count": 1,
+                "unique": 1
             },
             "referrer": {
                 "Google": {
@@ -75206,6 +75298,22 @@
                 "Google": {
                     "count": 1,
                     "unique": 1
+                }
+            }
+        },
+        "2025-05-08": {
+            "traffic": {
+                "count": 1,
+                "unique": 1
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {
+                "github.com": {
+                    "count": 5,
+                    "unique": 4
                 }
             }
         }
