@@ -157,8 +157,8 @@
         "forks": 224,
         "totals": {
             "clones": {
-                "count": 3120852,
-                "unique": 1772405
+                "count": 3128740,
+                "unique": 1776498
             }
         },
         "2023-05-18": {
@@ -34669,8 +34669,8 @@
                 "count": 13
             },
             "traffic": {
-                "count": 111,
-                "unique": 51
+                "count": 10,
+                "unique": 10
             },
             "referrer": {
                 "Google": {
@@ -35341,8 +35341,8 @@
         },
         "2025-08-15": {
             "traffic": {
-                "count": 74,
-                "unique": 35
+                "count": 170,
+                "unique": 44
             },
             "clones": {
                 "unique": 0,
@@ -35387,6 +35387,58 @@
                 },
                 "statics.teams.cdn.office.net": {
                     "count": 14,
+                    "unique": 6
+                }
+            }
+        },
+        "2025-08-16": {
+            "traffic": {
+                "count": 21,
+                "unique": 17
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {
+                "Google": {
+                    "count": 534,
+                    "unique": 238
+                },
+                "academy.hackthebox.com": {
+                    "count": 123,
+                    "unique": 83
+                },
+                "github.com": {
+                    "count": 92,
+                    "unique": 43
+                },
+                "ghostwriter.wiki": {
+                    "count": 53,
+                    "unique": 6
+                },
+                "specterops.io": {
+                    "count": 52,
+                    "unique": 25
+                },
+                "Bing": {
+                    "count": 29,
+                    "unique": 15
+                },
+                "search.brave.com": {
+                    "count": 26,
+                    "unique": 13
+                },
+                "DuckDuckGo": {
+                    "count": 21,
+                    "unique": 12
+                },
+                "chatgpt.com": {
+                    "count": 16,
+                    "unique": 8
+                },
+                "statics.teams.cdn.office.net": {
+                    "count": 16,
                     "unique": 6
                 }
             }
@@ -35550,8 +35602,8 @@
         "forks": 4,
         "totals": {
             "clones": {
-                "count": 1526774,
-                "unique": 987025
+                "count": 1529561,
+                "unique": 988825
             }
         },
         "2023-05-18": {
@@ -53804,8 +53856,8 @@
         },
         "2025-08-02": {
             "clones": {
-                "unique": 3,
-                "count": 3
+                "unique": 2,
+                "count": 2
             },
             "traffic": {
                 "count": 1,
@@ -54138,8 +54190,32 @@
                 "count": 0
             },
             "traffic": {
-                "count": 0,
-                "unique": 0
+                "count": 2,
+                "unique": 2
+            }
+        },
+        "2025-08-16": {
+            "traffic": {
+                "count": 1,
+                "unique": 1
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {
+                "Google": {
+                    "count": 14,
+                    "unique": 3
+                },
+                "github.com": {
+                    "count": 3,
+                    "unique": 2
+                },
+                "Bing": {
+                    "count": 1,
+                    "unique": 1
+                }
             }
         }
     },
@@ -54257,8 +54333,8 @@
         "forks": 9,
         "totals": {
             "clones": {
-                "count": 281666,
-                "unique": 217142
+                "count": 282331,
+                "unique": 217676
             }
         },
         "2023-05-18": {
@@ -70626,8 +70702,8 @@
         },
         "2025-08-02": {
             "clones": {
-                "unique": 2,
-                "count": 2
+                "unique": 1,
+                "count": 1
             },
             "traffic": {
                 "count": 3,
@@ -70927,6 +71003,30 @@
                     "unique": 2
                 }
             }
+        },
+        "2025-08-16": {
+            "referrer": {
+                "Google": {
+                    "count": 6,
+                    "unique": 3
+                },
+                "github.com": {
+                    "count": 3,
+                    "unique": 2
+                },
+                "search.brave.com": {
+                    "count": 1,
+                    "unique": 1
+                }
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
         }
     },
     "cobalt_sync": {
@@ -71043,8 +71143,8 @@
         "forks": 12,
         "totals": {
             "clones": {
-                "count": 218106,
-                "unique": 184209
+                "count": 218665,
+                "unique": 184684
             }
         },
         "2023-05-18": {
@@ -87174,6 +87274,26 @@
                     "count": 3,
                     "unique": 2
                 }
+            }
+        },
+        "2025-08-16": {
+            "referrer": {
+                "Google": {
+                    "count": 5,
+                    "unique": 2
+                },
+                "github.com": {
+                    "count": 3,
+                    "unique": 2
+                }
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
             }
         }
     }
