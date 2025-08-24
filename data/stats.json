@@ -157,8 +157,8 @@
         "forks": 224,
         "totals": {
             "clones": {
-                "count": 3183654,
-                "unique": 1805031
+                "count": 3191544,
+                "unique": 1809157
             }
         },
         "2023-05-18": {
@@ -35081,12 +35081,12 @@
         },
         "2025-08-10": {
             "clones": {
-                "unique": 9,
-                "count": 14
+                "unique": 3,
+                "count": 4
             },
             "traffic": {
-                "count": 59,
-                "unique": 31
+                "count": 24,
+                "unique": 13
             },
             "referrer": {
                 "Google": {
@@ -35653,8 +35653,8 @@
         },
         "2025-08-21": {
             "clones": {
-                "unique": 30,
-                "count": 53
+                "unique": 31,
+                "count": 54
             },
             "traffic": {
                 "count": 175,
@@ -35757,12 +35757,12 @@
         },
         "2025-08-23": {
             "clones": {
-                "unique": 1,
-                "count": 1
+                "unique": 7,
+                "count": 8
             },
             "traffic": {
-                "count": 41,
-                "unique": 28
+                "count": 53,
+                "unique": 35
             },
             "referrer": {
                 "Google": {
@@ -35804,6 +35804,58 @@
                 "seart-ghs.si.usi.ch": {
                     "count": 8,
                     "unique": 1
+                }
+            }
+        },
+        "2025-08-24": {
+            "clones": {
+                "unique": 7,
+                "count": 13
+            },
+            "traffic": {
+                "count": 42,
+                "unique": 30
+            },
+            "referrer": {
+                "Google": {
+                    "count": 277,
+                    "unique": 130
+                },
+                "academy.hackthebox.com": {
+                    "count": 67,
+                    "unique": 49
+                },
+                "github.com": {
+                    "count": 39,
+                    "unique": 22
+                },
+                "ghostwriter.wiki": {
+                    "count": 39,
+                    "unique": 2
+                },
+                "specterops.io": {
+                    "count": 37,
+                    "unique": 21
+                },
+                "Bing": {
+                    "count": 18,
+                    "unique": 9
+                },
+                "statics.teams.cdn.office.net": {
+                    "count": 10,
+                    "unique": 4
+                },
+                "DuckDuckGo": {
+                    "count": 8,
+                    "unique": 6
+                },
+                "seart-ghs.si.usi.ch": {
+                    "count": 8,
+                    "unique": 1
+                },
+                "chatgpt.com": {
+                    "count": 7,
+                    "unique": 5
                 }
             }
         }
@@ -35966,8 +36018,8 @@
         "forks": 4,
         "totals": {
             "clones": {
-                "count": 1549057,
-                "unique": 1001409
+                "count": 1551844,
+                "unique": 1003208
             }
         },
         "2023-05-18": {
@@ -54749,6 +54801,30 @@
                 "count": 0,
                 "unique": 0
             }
+        },
+        "2025-08-24": {
+            "traffic": {
+                "count": 2,
+                "unique": 2
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {
+                "Google": {
+                    "count": 14,
+                    "unique": 3
+                },
+                "github.com": {
+                    "count": 1,
+                    "unique": 1
+                },
+                "Bing": {
+                    "count": 1,
+                    "unique": 1
+                }
+            }
         }
     },
     "mythic_sync": {
@@ -54865,8 +54941,8 @@
         "forks": 9,
         "totals": {
             "clones": {
-                "count": 287012,
-                "unique": 221440
+                "count": 287690,
+                "unique": 221987
             }
         },
         "2023-05-18": {
@@ -71727,6 +71803,30 @@
                     "unique": 1
                 }
             }
+        },
+        "2025-08-24": {
+            "referrer": {
+                "github.com": {
+                    "count": 1,
+                    "unique": 1
+                },
+                "search.brave.com": {
+                    "count": 1,
+                    "unique": 1
+                },
+                "Google": {
+                    "count": 1,
+                    "unique": 1
+                }
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
         }
     },
     "cobalt_sync": {
@@ -71843,8 +71943,8 @@
         "forks": 12,
         "totals": {
             "clones": {
-                "count": 222595,
-                "unique": 188024
+                "count": 223163,
+                "unique": 188507
             }
         },
         "2023-05-18": {
@@ -88117,6 +88217,26 @@
             }
         },
         "2025-08-23": {
+            "referrer": {
+                "github.com": {
+                    "count": 13,
+                    "unique": 2
+                },
+                "Google": {
+                    "count": 1,
+                    "unique": 1
+                }
+            },
+            "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
+        },
+        "2025-08-24": {
             "referrer": {
                 "github.com": {
                     "count": 13,
