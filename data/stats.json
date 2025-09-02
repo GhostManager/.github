@@ -154,11 +154,11 @@
             },
             "referrer": {}
         },
-        "forks": 224,
+        "forks": 223,
         "totals": {
             "clones": {
-                "count": 3254024,
-                "unique": 1842283
+                "count": 3261859,
+                "unique": 1846431
             }
         },
         "2023-05-18": {
@@ -35549,12 +35549,12 @@
         },
         "2025-08-19": {
             "traffic": {
-                "count": 79,
-                "unique": 33
+                "count": 30,
+                "unique": 11
             },
             "clones": {
-                "unique": 15,
-                "count": 22
+                "unique": 4,
+                "count": 5
             },
             "referrer": {
                 "Google": {
@@ -36184,12 +36184,23 @@
         },
         "2025-09-01": {
             "clones": {
-                "unique": 6,
-                "count": 10
+                "unique": 7,
+                "count": 11
             },
             "traffic": {
-                "count": 96,
-                "unique": 57
+                "count": 114,
+                "unique": 69
+            },
+            "referrer": {}
+        },
+        "2025-09-02": {
+            "clones": {
+                "unique": 4,
+                "count": 5
+            },
+            "traffic": {
+                "count": 115,
+                "unique": 46
             },
             "referrer": {}
         }
@@ -36352,8 +36363,8 @@
         "forks": 4,
         "totals": {
             "clones": {
-                "count": 1574163,
-                "unique": 1017623
+                "count": 1576955,
+                "unique": 1019427
             }
         },
         "2023-05-18": {
@@ -55298,6 +55309,17 @@
                     "unique": 1
                 }
             }
+        },
+        "2025-09-02": {
+            "referrer": {},
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
         }
     },
     "mythic_sync": {
@@ -55414,8 +55436,8 @@
         "forks": 9,
         "totals": {
             "clones": {
-                "count": 293184,
-                "unique": 226433
+                "count": 293874,
+                "unique": 226992
             }
         },
         "2023-05-18": {
@@ -72416,6 +72438,17 @@
                 "count": 0,
                 "unique": 0
             }
+        },
+        "2025-09-02": {
+            "traffic": {
+                "count": 1,
+                "unique": 1
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {}
         }
     },
     "cobalt_sync": {
@@ -72532,8 +72565,8 @@
         "forks": 12,
         "totals": {
             "clones": {
-                "count": 227749,
-                "unique": 192407
+                "count": 228323,
+                "unique": 192896
             }
         },
         "2023-05-18": {
@@ -88737,8 +88770,8 @@
                 }
             },
             "clones": {
-                "unique": 3,
-                "count": 4
+                "unique": 1,
+                "count": 1
             },
             "traffic": {
                 "count": 0,
@@ -88975,6 +89008,22 @@
                 "count": 0
             },
             "referrer": {}
+        },
+        "2025-09-02": {
+            "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            },
+            "referrer": {
+                "statics.teams.cdn.office.net": {
+                    "count": 1,
+                    "unique": 1
+                }
+            }
         }
     }
 }
