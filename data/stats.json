@@ -157,8 +157,8 @@
         "forks": 222,
         "totals": {
             "clones": {
-                "count": 3277516,
-                "unique": 1854722
+                "count": 3285337,
+                "unique": 1858864
             }
         },
         "2023-05-18": {
@@ -35705,12 +35705,12 @@
         },
         "2025-08-22": {
             "clones": {
-                "unique": 14,
-                "count": 22
+                "unique": 1,
+                "count": 1
             },
             "traffic": {
-                "count": 193,
-                "unique": 69
+                "count": 34,
+                "unique": 14
             },
             "referrer": {
                 "Google": {
@@ -36258,12 +36258,23 @@
         },
         "2025-09-04": {
             "clones": {
-                "unique": 9,
-                "count": 14
+                "unique": 14,
+                "count": 30
             },
             "traffic": {
-                "count": 119,
-                "unique": 43
+                "count": 185,
+                "unique": 56
+            },
+            "referrer": {}
+        },
+        "2025-09-05": {
+            "clones": {
+                "unique": 11,
+                "count": 11
+            },
+            "traffic": {
+                "count": 140,
+                "unique": 46
             },
             "referrer": {}
         }
@@ -36426,8 +36437,8 @@
         "forks": 4,
         "totals": {
             "clones": {
-                "count": 1582541,
-                "unique": 1023037
+                "count": 1585335,
+                "unique": 1024843
             }
         },
         "2023-05-18": {
@@ -55164,8 +55175,8 @@
         },
         "2025-08-22": {
             "traffic": {
-                "count": 2,
-                "unique": 2
+                "count": 1,
+                "unique": 1
             },
             "clones": {
                 "unique": 0,
@@ -55405,6 +55416,26 @@
                 "count": 0
             },
             "referrer": {}
+        },
+        "2025-09-05": {
+            "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "traffic": {
+                "count": 3,
+                "unique": 2
+            },
+            "referrer": {
+                "Google": {
+                    "count": 2,
+                    "unique": 2
+                },
+                "ghostwriter.wiki": {
+                    "count": 1,
+                    "unique": 1
+                }
+            }
         }
     },
     "mythic_sync": {
@@ -55521,8 +55552,8 @@
         "forks": 9,
         "totals": {
             "clones": {
-                "count": 295259,
-                "unique": 228115
+                "count": 295953,
+                "unique": 228678
             }
         },
         "2023-05-18": {
@@ -72338,8 +72369,8 @@
         },
         "2025-08-22": {
             "clones": {
-                "unique": 3,
-                "count": 3
+                "unique": 2,
+                "count": 2
             },
             "traffic": {
                 "count": 0,
@@ -72556,6 +72587,17 @@
                 "unique": 1
             },
             "referrer": {}
+        },
+        "2025-09-05": {
+            "clones": {
+                "unique": 2,
+                "count": 2
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            },
+            "referrer": {}
         }
     },
     "cobalt_sync": {
@@ -72672,8 +72714,8 @@
         "forks": 12,
         "totals": {
             "clones": {
-                "count": 229476,
-                "unique": 193879
+                "count": 230053,
+                "unique": 194371
             }
         },
         "2023-05-18": {
@@ -89150,8 +89192,19 @@
         },
         "2025-09-04": {
             "traffic": {
-                "count": 4,
-                "unique": 2
+                "count": 5,
+                "unique": 3
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {}
+        },
+        "2025-09-05": {
+            "traffic": {
+                "count": 2,
+                "unique": 1
             },
             "clones": {
                 "unique": 0,
