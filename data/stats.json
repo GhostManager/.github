@@ -157,8 +157,8 @@
         "forks": 222,
         "totals": {
             "clones": {
-                "count": 3285337,
-                "unique": 1858864
+                "count": 3293174,
+                "unique": 1863021
             }
         },
         "2023-05-18": {
@@ -35758,11 +35758,11 @@
         "2025-08-23": {
             "clones": {
                 "unique": 7,
-                "count": 8
+                "count": 7
             },
             "traffic": {
-                "count": 53,
-                "unique": 35
+                "count": 10,
+                "unique": 5
             },
             "referrer": {
                 "Google": {
@@ -36269,14 +36269,66 @@
         },
         "2025-09-05": {
             "clones": {
-                "unique": 11,
-                "count": 11
+                "unique": 17,
+                "count": 19
             },
             "traffic": {
-                "count": 140,
-                "unique": 46
+                "count": 161,
+                "unique": 57
             },
             "referrer": {}
+        },
+        "2025-09-06": {
+            "clones": {
+                "unique": 9,
+                "count": 9
+            },
+            "traffic": {
+                "count": 50,
+                "unique": 18
+            },
+            "referrer": {
+                "ghostwriter.wiki": {
+                    "count": 81,
+                    "unique": 1
+                },
+                "Google": {
+                    "count": 38,
+                    "unique": 29
+                },
+                "github.com": {
+                    "count": 16,
+                    "unique": 4
+                },
+                "specterops.io": {
+                    "count": 13,
+                    "unique": 7
+                },
+                "DuckDuckGo": {
+                    "count": 10,
+                    "unique": 5
+                },
+                "academy.hackthebox.com": {
+                    "count": 6,
+                    "unique": 5
+                },
+                "search.brave.com": {
+                    "count": 4,
+                    "unique": 2
+                },
+                "pentestreports.com": {
+                    "count": 4,
+                    "unique": 1
+                },
+                "Bing": {
+                    "count": 2,
+                    "unique": 2
+                },
+                "reddit.com": {
+                    "count": 2,
+                    "unique": 1
+                }
+            }
         }
     },
     "Ghostwriter_CLI": {
@@ -36437,8 +36489,8 @@
         "forks": 4,
         "totals": {
             "clones": {
-                "count": 1585335,
-                "unique": 1024843
+                "count": 1588130,
+                "unique": 1026650
             }
         },
         "2023-05-18": {
@@ -55436,6 +55488,17 @@
                     "unique": 1
                 }
             }
+        },
+        "2025-09-06": {
+            "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "traffic": {
+                "count": 3,
+                "unique": 1
+            },
+            "referrer": {}
         }
     },
     "mythic_sync": {
@@ -55552,8 +55615,8 @@
         "forks": 9,
         "totals": {
             "clones": {
-                "count": 295953,
-                "unique": 228678
+                "count": 296648,
+                "unique": 229242
             }
         },
         "2023-05-18": {
@@ -72598,6 +72661,17 @@
                 "unique": 0
             },
             "referrer": {}
+        },
+        "2025-09-06": {
+            "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            },
+            "referrer": {}
         }
     },
     "cobalt_sync": {
@@ -72714,8 +72788,8 @@
         "forks": 12,
         "totals": {
             "clones": {
-                "count": 230053,
-                "unique": 194371
+                "count": 230630,
+                "unique": 194863
             }
         },
         "2023-05-18": {
@@ -89211,6 +89285,22 @@
                 "count": 0
             },
             "referrer": {}
+        },
+        "2025-09-06": {
+            "referrer": {
+                "statics.teams.cdn.office.net": {
+                    "count": 1,
+                    "unique": 1
+                }
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
         }
     }
 }
