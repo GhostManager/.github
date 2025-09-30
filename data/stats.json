@@ -157,8 +157,8 @@
         "forks": 223,
         "totals": {
             "clones": {
-                "count": 3479471,
-                "unique": 1961779
+                "count": 3487814,
+                "unique": 1966206
             }
         },
         "2023-05-18": {
@@ -36472,12 +36472,12 @@
         },
         "2025-09-16": {
             "clones": {
-                "unique": 11,
-                "count": 17
+                "unique": 2,
+                "count": 3
             },
             "traffic": {
-                "count": 154,
-                "unique": 60
+                "count": 30,
+                "unique": 17
             },
             "referrer": {}
         },
@@ -36615,12 +36615,23 @@
         },
         "2025-09-29": {
             "clones": {
-                "unique": 12,
-                "count": 21
+                "unique": 24,
+                "count": 37
             },
             "traffic": {
-                "count": 109,
-                "unique": 56
+                "count": 158,
+                "unique": 71
+            },
+            "referrer": {}
+        },
+        "2025-09-30": {
+            "clones": {
+                "unique": 6,
+                "count": 7
+            },
+            "traffic": {
+                "count": 107,
+                "unique": 42
             },
             "referrer": {}
         }
@@ -36783,8 +36794,8 @@
         "forks": 5,
         "totals": {
             "clones": {
-                "count": 1652838,
-                "unique": 1068561
+                "count": 1655685,
+                "unique": 1070408
             }
         },
         "2023-05-18": {
@@ -56064,6 +56075,17 @@
                 "unique": 0
             },
             "referrer": {}
+        },
+        "2025-09-30": {
+            "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "traffic": {
+                "count": 1,
+                "unique": 1
+            },
+            "referrer": {}
         }
     },
     "mythic_sync": {
@@ -56180,8 +56202,8 @@
         "forks": 9,
         "totals": {
             "clones": {
-                "count": 313162,
-                "unique": 242580
+                "count": 313894,
+                "unique": 243173
             }
         },
         "2023-05-18": {
@@ -73339,12 +73361,12 @@
         },
         "2025-09-16": {
             "clones": {
-                "unique": 3,
-                "count": 12
+                "unique": 2,
+                "count": 6
             },
             "traffic": {
-                "count": 12,
-                "unique": 5
+                "count": 4,
+                "unique": 2
             },
             "referrer": {}
         },
@@ -73490,6 +73512,17 @@
                 "unique": 2
             },
             "referrer": {}
+        },
+        "2025-09-30": {
+            "clones": {
+                "unique": 3,
+                "count": 3
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            },
+            "referrer": {}
         }
     },
     "cobalt_sync": {
@@ -73606,8 +73639,8 @@
         "forks": 12,
         "totals": {
             "clones": {
-                "count": 244175,
-                "unique": 206437
+                "count": 244777,
+                "unique": 206953
             }
         },
         "2023-05-18": {
@@ -90369,12 +90402,23 @@
         },
         "2025-09-29": {
             "traffic": {
-                "count": 1,
-                "unique": 1
+                "count": 6,
+                "unique": 3
             },
             "clones": {
-                "unique": 0,
-                "count": 0
+                "unique": 2,
+                "count": 2
+            },
+            "referrer": {}
+        },
+        "2025-09-30": {
+            "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
             },
             "referrer": {}
         }
