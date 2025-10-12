@@ -157,8 +157,8 @@
         "forks": 229,
         "totals": {
             "clones": {
-                "count": 3579116,
-                "unique": 2015051
+                "count": 3587471,
+                "unique": 2019530
             }
         },
         "2023-05-18": {
@@ -36604,12 +36604,12 @@
         },
         "2025-09-28": {
             "clones": {
-                "unique": 14,
-                "count": 28
+                "unique": 3,
+                "count": 4
             },
             "traffic": {
-                "count": 28,
-                "unique": 19
+                "count": 5,
+                "unique": 3
             },
             "referrer": {}
         },
@@ -36747,12 +36747,23 @@
         },
         "2025-10-11": {
             "clones": {
-                "unique": 19,
-                "count": 22
+                "unique": 24,
+                "count": 30
             },
             "traffic": {
-                "count": 52,
-                "unique": 25
+                "count": 65,
+                "unique": 33
+            },
+            "referrer": {}
+        },
+        "2025-10-12": {
+            "clones": {
+                "unique": 10,
+                "count": 18
+            },
+            "traffic": {
+                "count": 16,
+                "unique": 12
             },
             "referrer": {}
         }
@@ -36915,8 +36926,8 @@
         "forks": 6,
         "totals": {
             "clones": {
-                "count": 1687073,
-                "unique": 1090731
+                "count": 1689936,
+                "unique": 1092580
             }
         },
         "2023-05-18": {
@@ -56324,10 +56335,21 @@
                 "unique": 2
             },
             "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "referrer": {}
+        },
+        "2025-10-12": {
+            "referrer": {},
+            "clones": {
                 "unique": 0,
                 "count": 0
             },
-            "referrer": {}
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
         }
     },
     "mythic_sync": {
@@ -56444,8 +56466,8 @@
         "forks": 9,
         "totals": {
             "clones": {
-                "count": 321962,
-                "unique": 249712
+                "count": 322701,
+                "unique": 250312
             }
         },
         "2023-05-18": {
@@ -73886,6 +73908,17 @@
                 "count": 0,
                 "unique": 0
             }
+        },
+        "2025-10-12": {
+            "referrer": {},
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
         }
     },
     "cobalt_sync": {
@@ -74002,8 +74035,8 @@
         "forks": 12,
         "totals": {
             "clones": {
-                "count": 251434,
-                "unique": 212664
+                "count": 252043,
+                "unique": 213187
             }
         },
         "2023-05-18": {
@@ -90905,6 +90938,17 @@
                 "count": 0,
                 "unique": 0
             }
+        },
+        "2025-10-12": {
+            "clones": {
+                "unique": 2,
+                "count": 2
+            },
+            "traffic": {
+                "count": 1,
+                "unique": 1
+            },
+            "referrer": {}
         }
     }
 }
