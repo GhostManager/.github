@@ -157,8 +157,8 @@
         "forks": 229,
         "totals": {
             "clones": {
-                "count": 3733041,
-                "unique": 2096868
+                "count": 3741690,
+                "unique": 2101487
             }
         },
         "2023-05-18": {
@@ -36791,12 +36791,12 @@
         },
         "2025-10-15": {
             "clones": {
-                "unique": 18,
-                "count": 55
+                "unique": 9,
+                "count": 39
             },
             "traffic": {
-                "count": 151,
-                "unique": 77
+                "count": 41,
+                "unique": 14
             },
             "referrer": {}
         },
@@ -36934,12 +36934,23 @@
         },
         "2025-10-28": {
             "clones": {
-                "unique": 11,
-                "count": 11
+                "unique": 19,
+                "count": 21
             },
             "traffic": {
-                "count": 98,
-                "unique": 48
+                "count": 126,
+                "unique": 66
+            },
+            "referrer": {}
+        },
+        "2025-10-29": {
+            "clones": {
+                "unique": 10,
+                "count": 13
+            },
+            "traffic": {
+                "count": 93,
+                "unique": 45
             },
             "referrer": {}
         }
@@ -37102,8 +37113,8 @@
         "forks": 6,
         "totals": {
             "clones": {
-                "count": 1739271,
-                "unique": 1124338
+                "count": 1742244,
+                "unique": 1126236
             }
         },
         "2023-05-18": {
@@ -56698,10 +56709,21 @@
                 "unique": 2
             },
             "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "referrer": {}
+        },
+        "2025-10-29": {
+            "referrer": {},
+            "clones": {
                 "unique": 0,
                 "count": 0
             },
-            "referrer": {}
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
         }
     },
     "mythic_sync": {
@@ -56818,8 +56840,8 @@
         "forks": 9,
         "totals": {
             "clones": {
-                "count": 335628,
-                "unique": 260748
+                "count": 336402,
+                "unique": 261376
             }
         },
         "2023-05-18": {
@@ -74296,8 +74318,8 @@
         },
         "2025-10-15": {
             "clones": {
-                "unique": 4,
-                "count": 9
+                "unique": 2,
+                "count": 2
             },
             "traffic": {
                 "count": 8,
@@ -74439,12 +74461,23 @@
         },
         "2025-10-28": {
             "clones": {
-                "unique": 1,
-                "count": 1
+                "unique": 3,
+                "count": 3
             },
             "traffic": {
                 "count": 0,
                 "unique": 0
+            },
+            "referrer": {}
+        },
+        "2025-10-29": {
+            "clones": {
+                "unique": 2,
+                "count": 2
+            },
+            "traffic": {
+                "count": 3,
+                "unique": 3
             },
             "referrer": {}
         }
@@ -74563,8 +74596,8 @@
         "forks": 12,
         "totals": {
             "clones": {
-                "count": 262545,
-                "unique": 222190
+                "count": 263171,
+                "unique": 222726
             }
         },
         "2023-05-18": {
@@ -91645,12 +91678,23 @@
         },
         "2025-10-28": {
             "traffic": {
-                "count": 1,
-                "unique": 1
+                "count": 3,
+                "unique": 3
             },
             "clones": {
-                "unique": 0,
-                "count": 0
+                "unique": 2,
+                "count": 2
+            },
+            "referrer": {}
+        },
+        "2025-10-29": {
+            "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "traffic": {
+                "count": 4,
+                "unique": 1
             },
             "referrer": {}
         }
