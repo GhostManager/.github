@@ -157,8 +157,8 @@
         "forks": 230,
         "totals": {
             "clones": {
-                "count": 3846423,
-                "unique": 2157601
+                "count": 3855339,
+                "unique": 2162353
             }
         },
         "2023-05-18": {
@@ -36934,12 +36934,12 @@
         },
         "2025-10-28": {
             "clones": {
-                "unique": 19,
-                "count": 21
+                "unique": 7,
+                "count": 9
             },
             "traffic": {
-                "count": 126,
-                "unique": 66
+                "count": 23,
+                "unique": 14
             },
             "referrer": {}
         },
@@ -37077,12 +37077,23 @@
         },
         "2025-11-10": {
             "clones": {
-                "unique": 16,
-                "count": 29
+                "unique": 39,
+                "count": 75
             },
             "traffic": {
-                "count": 83,
-                "unique": 37
+                "count": 131,
+                "unique": 60
+            },
+            "referrer": {}
+        },
+        "2025-11-11": {
+            "clones": {
+                "unique": 17,
+                "count": 20
+            },
+            "traffic": {
+                "count": 122,
+                "unique": 50
             },
             "referrer": {}
         }
@@ -37245,8 +37256,8 @@
         "forks": 6,
         "totals": {
             "clones": {
-                "count": 1777852,
-                "unique": 1149016
+                "count": 1780843,
+                "unique": 1150933
             }
         },
         "2023-05-18": {
@@ -56980,12 +56991,23 @@
         },
         "2025-11-10": {
             "clones": {
-                "unique": 1,
-                "count": 1
+                "unique": 16,
+                "count": 30
             },
             "traffic": {
-                "count": 1,
-                "unique": 1
+                "count": 2,
+                "unique": 2
+            },
+            "referrer": {}
+        },
+        "2025-11-11": {
+            "clones": {
+                "unique": 3,
+                "count": 3
+            },
+            "traffic": {
+                "count": 2,
+                "unique": 2
             },
             "referrer": {}
         }
@@ -57104,8 +57126,8 @@
         "forks": 9,
         "totals": {
             "clones": {
-                "count": 345708,
-                "unique": 268926
+                "count": 346488,
+                "unique": 269559
             }
         },
         "2023-05-18": {
@@ -74725,8 +74747,8 @@
         },
         "2025-10-28": {
             "clones": {
-                "unique": 3,
-                "count": 3
+                "unique": 2,
+                "count": 2
             },
             "traffic": {
                 "count": 0,
@@ -74876,6 +74898,17 @@
                 "unique": 0
             },
             "referrer": {}
+        },
+        "2025-11-11": {
+            "traffic": {
+                "count": 1,
+                "unique": 1
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {}
         }
     },
     "cobalt_sync": {
@@ -74992,8 +75025,8 @@
         "forks": 12,
         "totals": {
             "clones": {
-                "count": 270732,
-                "unique": 229195
+                "count": 271366,
+                "unique": 229738
             }
         },
         "2023-05-18": {
@@ -92074,8 +92107,8 @@
         },
         "2025-10-28": {
             "traffic": {
-                "count": 3,
-                "unique": 3
+                "count": 2,
+                "unique": 2
             },
             "clones": {
                 "unique": 2,
@@ -92221,8 +92254,19 @@
                 "unique": 1
             },
             "clones": {
-                "unique": 0,
-                "count": 0
+                "unique": 1,
+                "count": 1
+            },
+            "referrer": {}
+        },
+        "2025-11-11": {
+            "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "traffic": {
+                "count": 2,
+                "unique": 2
             },
             "referrer": {}
         }
