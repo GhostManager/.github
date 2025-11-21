@@ -154,11 +154,11 @@
             },
             "referrer": {}
         },
-        "forks": 230,
+        "forks": 231,
         "totals": {
             "clones": {
-                "count": 3935448,
-                "unique": 2205007
+                "count": 3944268,
+                "unique": 2209726
             }
         },
         "2023-05-18": {
@@ -37044,12 +37044,12 @@
         },
         "2025-11-07": {
             "clones": {
-                "unique": 45,
-                "count": 138
+                "unique": 11,
+                "count": 31
             },
             "traffic": {
-                "count": 449,
-                "unique": 317
+                "count": 281,
+                "unique": 271
             },
             "referrer": {}
         },
@@ -37187,12 +37187,23 @@
         },
         "2025-11-20": {
             "clones": {
-                "unique": 18,
-                "count": 24
+                "unique": 27,
+                "count": 44
             },
             "traffic": {
-                "count": 162,
-                "unique": 53
+                "count": 315,
+                "unique": 78
+            },
+            "referrer": {}
+        },
+        "2025-11-21": {
+            "clones": {
+                "unique": 13,
+                "count": 19
+            },
+            "traffic": {
+                "count": 99,
+                "unique": 44
             },
             "referrer": {}
         }
@@ -37355,8 +37366,8 @@
         "forks": 6,
         "totals": {
             "clones": {
-                "count": 1808082,
-                "unique": 1168406
+                "count": 1811126,
+                "unique": 1170360
             }
         },
         "2023-05-18": {
@@ -57061,8 +57072,8 @@
                 "count": 1
             },
             "traffic": {
-                "count": 6,
-                "unique": 3
+                "count": 1,
+                "unique": 1
             },
             "referrer": {}
         },
@@ -57200,12 +57211,23 @@
         },
         "2025-11-20": {
             "clones": {
+                "unique": 2,
+                "count": 2
+            },
+            "traffic": {
+                "count": 5,
+                "unique": 2
+            },
+            "referrer": {}
+        },
+        "2025-11-21": {
+            "clones": {
                 "unique": 1,
                 "count": 1
             },
             "traffic": {
-                "count": 1,
-                "unique": 1
+                "count": 6,
+                "unique": 5
             },
             "referrer": {}
         }
@@ -57324,8 +57346,8 @@
         "forks": 9,
         "totals": {
             "clones": {
-                "count": 353581,
-                "unique": 275294
+                "count": 354375,
+                "unique": 275936
             }
         },
         "2023-05-18": {
@@ -75059,8 +75081,8 @@
                 "count": 2
             },
             "traffic": {
-                "count": 2,
-                "unique": 2
+                "count": 1,
+                "unique": 1
             },
             "referrer": {}
         },
@@ -75198,12 +75220,23 @@
         },
         "2025-11-20": {
             "clones": {
-                "unique": 1,
-                "count": 1
+                "unique": 2,
+                "count": 2
             },
             "traffic": {
                 "count": 1,
                 "unique": 1
+            },
+            "referrer": {}
+        },
+        "2025-11-21": {
+            "clones": {
+                "unique": 1,
+                "count": 2
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
             },
             "referrer": {}
         }
@@ -75322,8 +75355,8 @@
         "forks": 12,
         "totals": {
             "clones": {
-                "count": 277097,
-                "unique": 234648
+                "count": 277739,
+                "unique": 235198
             }
         },
         "2023-05-18": {
@@ -92657,14 +92690,25 @@
         },
         "2025-11-20": {
             "clones": {
-                "unique": 1,
-                "count": 1
+                "unique": 2,
+                "count": 2
             },
             "traffic": {
                 "count": 1,
                 "unique": 1
             },
             "referrer": {}
+        },
+        "2025-11-21": {
+            "referrer": {},
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
         }
     }
 }
