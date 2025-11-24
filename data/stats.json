@@ -157,8 +157,8 @@
         "forks": 231,
         "totals": {
             "clones": {
-                "count": 3961912,
-                "unique": 2219151
+                "count": 3970711,
+                "unique": 2223850
             }
         },
         "2023-05-18": {
@@ -37077,12 +37077,12 @@
         },
         "2025-11-10": {
             "clones": {
-                "unique": 39,
-                "count": 75
+                "unique": 17,
+                "count": 25
             },
             "traffic": {
-                "count": 131,
-                "unique": 60
+                "count": 28,
+                "unique": 17
             },
             "referrer": {}
         },
@@ -37220,12 +37220,23 @@
         },
         "2025-11-23": {
             "clones": {
-                "unique": 6,
-                "count": 15
+                "unique": 7,
+                "count": 16
             },
             "traffic": {
-                "count": 33,
-                "unique": 25
+                "count": 49,
+                "unique": 32
+            },
+            "referrer": {}
+        },
+        "2025-11-24": {
+            "clones": {
+                "unique": 5,
+                "count": 14
+            },
+            "traffic": {
+                "count": 72,
+                "unique": 41
             },
             "referrer": {}
         }
@@ -37388,8 +37399,8 @@
         "forks": 6,
         "totals": {
             "clones": {
-                "count": 1817214,
-                "unique": 1174268
+                "count": 1820255,
+                "unique": 1176220
             }
         },
         "2023-05-18": {
@@ -57123,12 +57134,12 @@
         },
         "2025-11-10": {
             "clones": {
-                "unique": 16,
-                "count": 30
+                "unique": 14,
+                "count": 27
             },
             "traffic": {
-                "count": 2,
-                "unique": 2
+                "count": 1,
+                "unique": 1
             },
             "referrer": {}
         },
@@ -57274,6 +57285,17 @@
                 "count": 0,
                 "unique": 0
             }
+        },
+        "2025-11-24": {
+            "traffic": {
+                "count": 1,
+                "unique": 1
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {}
         }
     },
     "mythic_sync": {
@@ -57390,8 +57412,8 @@
         "forks": 9,
         "totals": {
             "clones": {
-                "count": 355965,
-                "unique": 277222
+                "count": 356761,
+                "unique": 277866
             }
         },
         "2023-05-18": {
@@ -75298,13 +75320,24 @@
         "2025-11-23": {
             "referrer": {},
             "clones": {
-                "unique": 0,
-                "count": 0
+                "unique": 1,
+                "count": 1
             },
             "traffic": {
                 "count": 0,
                 "unique": 0
             }
+        },
+        "2025-11-24": {
+            "traffic": {
+                "count": 1,
+                "unique": 1
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {}
         }
     },
     "cobalt_sync": {
@@ -75421,8 +75454,8 @@
         "forks": 12,
         "totals": {
             "clones": {
-                "count": 279027,
-                "unique": 236302
+                "count": 279672,
+                "unique": 236855
             }
         },
         "2023-05-18": {
@@ -92793,10 +92826,21 @@
                 "unique": 1
             },
             "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "referrer": {}
+        },
+        "2025-11-24": {
+            "referrer": {},
+            "clones": {
                 "unique": 0,
                 "count": 0
             },
-            "referrer": {}
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
         }
     }
 }
