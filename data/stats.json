@@ -157,8 +157,8 @@
         "forks": 231,
         "totals": {
             "clones": {
-                "count": 3988343,
-                "unique": 2233288
+                "count": 3997173,
+                "unique": 2238028
             }
         },
         "2023-05-18": {
@@ -37110,12 +37110,12 @@
         },
         "2025-11-13": {
             "clones": {
-                "unique": 21,
-                "count": 40
+                "unique": 11,
+                "count": 24
             },
             "traffic": {
-                "count": 257,
-                "unique": 65
+                "count": 57,
+                "unique": 19
             },
             "referrer": {}
         },
@@ -37253,12 +37253,23 @@
         },
         "2025-11-26": {
             "clones": {
-                "unique": 42,
-                "count": 45
+                "unique": 49,
+                "count": 53
             },
             "traffic": {
-                "count": 130,
-                "unique": 36
+                "count": 172,
+                "unique": 45
+            },
+            "referrer": {}
+        },
+        "2025-11-27": {
+            "clones": {
+                "unique": 9,
+                "count": 11
+            },
+            "traffic": {
+                "count": 98,
+                "unique": 50
             },
             "referrer": {}
         }
@@ -37421,8 +37432,8 @@
         "forks": 6,
         "totals": {
             "clones": {
-                "count": 1826339,
-                "unique": 1180126
+                "count": 1829390,
+                "unique": 1182089
             }
         },
         "2023-05-18": {
@@ -57189,12 +57200,12 @@
         },
         "2025-11-13": {
             "clones": {
-                "unique": 7,
-                "count": 8
+                "unique": 4,
+                "count": 4
             },
             "traffic": {
-                "count": 49,
-                "unique": 4
+                "count": 12,
+                "unique": 2
             },
             "referrer": {}
         },
@@ -57332,12 +57343,23 @@
         },
         "2025-11-26": {
             "clones": {
-                "unique": 3,
-                "count": 3
+                "unique": 5,
+                "count": 5
             },
             "traffic": {
                 "count": 0,
                 "unique": 0
+            },
+            "referrer": {}
+        },
+        "2025-11-27": {
+            "clones": {
+                "unique": 9,
+                "count": 9
+            },
+            "traffic": {
+                "count": 19,
+                "unique": 2
             },
             "referrer": {}
         }
@@ -57456,8 +57478,8 @@
         "forks": 9,
         "totals": {
             "clones": {
-                "count": 358360,
-                "unique": 279161
+                "count": 359161,
+                "unique": 279810
             }
         },
         "2023-05-18": {
@@ -75404,6 +75426,17 @@
                 "count": 0,
                 "unique": 0
             }
+        },
+        "2025-11-27": {
+            "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            },
+            "referrer": {}
         }
     },
     "cobalt_sync": {
@@ -75520,8 +75553,8 @@
         "forks": 12,
         "totals": {
             "clones": {
-                "count": 280967,
-                "unique": 237966
+                "count": 281616,
+                "unique": 238523
             }
         },
         "2023-05-18": {
@@ -92921,14 +92954,25 @@
         },
         "2025-11-26": {
             "clones": {
-                "unique": 1,
-                "count": 1
+                "unique": 2,
+                "count": 2
             },
             "traffic": {
                 "count": 1,
                 "unique": 1
             },
             "referrer": {}
+        },
+        "2025-11-27": {
+            "referrer": {},
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
         }
     }
 }
