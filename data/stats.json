@@ -157,8 +157,8 @@
         "forks": 232,
         "totals": {
             "clones": {
-                "count": 4096483,
-                "unique": 2291147
+                "count": 4105735,
+                "unique": 2296081
             }
         },
         "2023-05-18": {
@@ -37242,12 +37242,12 @@
         },
         "2025-11-25": {
             "clones": {
-                "unique": 16,
-                "count": 21
+                "unique": 3,
+                "count": 4
             },
             "traffic": {
-                "count": 183,
-                "unique": 70
+                "count": 24,
+                "unique": 13
             },
             "referrer": {}
         },
@@ -37385,12 +37385,23 @@
         },
         "2025-12-08": {
             "clones": {
-                "unique": 15,
-                "count": 16
+                "unique": 27,
+                "count": 47
             },
             "traffic": {
-                "count": 136,
-                "unique": 43
+                "count": 199,
+                "unique": 61
+            },
+            "referrer": {}
+        },
+        "2025-12-09": {
+            "clones": {
+                "unique": 12,
+                "count": 21
+            },
+            "traffic": {
+                "count": 245,
+                "unique": 61
             },
             "referrer": {}
         }
@@ -37553,8 +37564,8 @@
         "forks": 6,
         "totals": {
             "clones": {
-                "count": 1863642,
-                "unique": 1204384
+                "count": 1866780,
+                "unique": 1206432
             }
         },
         "2023-05-18": {
@@ -57453,12 +57464,12 @@
         },
         "2025-11-25": {
             "clones": {
-                "unique": 3,
-                "count": 3
+                "unique": 1,
+                "count": 1
             },
             "traffic": {
-                "count": 8,
-                "unique": 4
+                "count": 1,
+                "unique": 1
             },
             "referrer": {}
         },
@@ -57596,12 +57607,23 @@
         },
         "2025-12-08": {
             "traffic": {
-                "count": 6,
-                "unique": 3
+                "count": 8,
+                "unique": 5
             },
             "clones": {
-                "unique": 0,
-                "count": 0
+                "unique": 1,
+                "count": 1
+            },
+            "referrer": {}
+        },
+        "2025-12-09": {
+            "clones": {
+                "unique": 1,
+                "count": 2
+            },
+            "traffic": {
+                "count": 9,
+                "unique": 4
             },
             "referrer": {}
         }
@@ -57720,8 +57742,8 @@
         "forks": 9,
         "totals": {
             "clones": {
-                "count": 368000,
-                "unique": 286977
+                "count": 368809,
+                "unique": 287634
             }
         },
         "2023-05-18": {
@@ -75793,6 +75815,17 @@
         "2025-12-08": {
             "referrer": {},
             "clones": {
+                "unique": 3,
+                "count": 3
+            },
+            "traffic": {
+                "count": 1,
+                "unique": 1
+            }
+        },
+        "2025-12-09": {
+            "referrer": {},
+            "clones": {
                 "unique": 0,
                 "count": 0
             },
@@ -75916,8 +75949,8 @@
         "forks": 12,
         "totals": {
             "clones": {
-                "count": 289149,
-                "unique": 244968
+                "count": 289878,
+                "unique": 245589
             }
         },
         "2023-05-18": {
@@ -93451,6 +93484,17 @@
             "clones": {
                 "unique": 3,
                 "count": 3
+            },
+            "traffic": {
+                "count": 3,
+                "unique": 3
+            },
+            "referrer": {}
+        },
+        "2025-12-09": {
+            "clones": {
+                "unique": 2,
+                "count": 2
             },
             "traffic": {
                 "count": 2,
