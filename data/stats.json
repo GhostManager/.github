@@ -157,8 +157,8 @@
         "forks": 230,
         "totals": {
             "clones": {
-                "count": 4217528,
-                "unique": 2355263
+                "count": 4226791,
+                "unique": 2360167
             }
         },
         "2023-05-18": {
@@ -37385,12 +37385,12 @@
         },
         "2025-12-08": {
             "clones": {
-                "unique": 27,
-                "count": 47
+                "unique": 9,
+                "count": 25
             },
             "traffic": {
-                "count": 199,
-                "unique": 61
+                "count": 37,
+                "unique": 13
             },
             "referrer": {}
         },
@@ -37528,12 +37528,23 @@
         },
         "2025-12-21": {
             "clones": {
-                "unique": 4,
-                "count": 9
+                "unique": 8,
+                "count": 13
             },
             "traffic": {
-                "count": 107,
-                "unique": 94
+                "count": 129,
+                "unique": 102
+            },
+            "referrer": {}
+        },
+        "2025-12-22": {
+            "clones": {
+                "unique": 10,
+                "count": 21
+            },
+            "traffic": {
+                "count": 96,
+                "unique": 46
             },
             "referrer": {}
         }
@@ -37696,8 +37707,8 @@
         "forks": 6,
         "totals": {
             "clones": {
-                "count": 1904073,
-                "unique": 1230628
+                "count": 1907179,
+                "unique": 1232641
             }
         },
         "2023-05-18": {
@@ -57739,8 +57750,8 @@
         },
         "2025-12-08": {
             "traffic": {
-                "count": 8,
-                "unique": 5
+                "count": 2,
+                "unique": 2
             },
             "clones": {
                 "unique": 1,
@@ -57890,6 +57901,17 @@
                 "count": 0,
                 "unique": 0
             }
+        },
+        "2025-12-22": {
+            "traffic": {
+                "count": 1,
+                "unique": 1
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "referrer": {}
         }
     },
     "mythic_sync": {
@@ -58006,8 +58028,8 @@
         "forks": 9,
         "totals": {
             "clones": {
-                "count": 378610,
-                "unique": 295605
+                "count": 379440,
+                "unique": 296280
             }
         },
         "2023-05-18": {
@@ -76229,6 +76251,17 @@
                 "count": 0,
                 "unique": 0
             }
+        },
+        "2025-12-22": {
+            "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            },
+            "referrer": {}
         }
     },
     "cobalt_sync": {
@@ -76345,8 +76378,8 @@
         "forks": 12,
         "totals": {
             "clones": {
-                "count": 298590,
-                "unique": 253026
+                "count": 299297,
+                "unique": 253635
             }
         },
         "2023-05-18": {
@@ -93882,8 +93915,8 @@
                 "count": 3
             },
             "traffic": {
-                "count": 3,
-                "unique": 3
+                "count": 1,
+                "unique": 1
             },
             "referrer": {}
         },
@@ -94025,10 +94058,21 @@
                 "unique": 1
             },
             "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "referrer": {}
+        },
+        "2025-12-22": {
+            "referrer": {},
+            "clones": {
                 "unique": 0,
                 "count": 0
             },
-            "referrer": {}
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
         }
     }
 }
