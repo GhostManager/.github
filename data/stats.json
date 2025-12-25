@@ -157,8 +157,8 @@
         "forks": 230,
         "totals": {
             "clones": {
-                "count": 4245394,
-                "unique": 2370005
+                "count": 4254717,
+                "unique": 2374938
             }
         },
         "2023-05-18": {
@@ -37644,6 +37644,58 @@
                 }
             },
             "clones": {
+                "unique": 6,
+                "count": 9
+            },
+            "traffic": {
+                "count": 61,
+                "unique": 41
+            }
+        },
+        "2025-12-25": {
+            "referrer": {
+                "Google": {
+                    "count": 465,
+                    "unique": 186
+                },
+                "academy.hackthebox.com": {
+                    "count": 115,
+                    "unique": 71
+                },
+                "specterops.io": {
+                    "count": 113,
+                    "unique": 68
+                },
+                "github.com": {
+                    "count": 113,
+                    "unique": 35
+                },
+                "Bing": {
+                    "count": 53,
+                    "unique": 21
+                },
+                "search.brave.com": {
+                    "count": 52,
+                    "unique": 16
+                },
+                "bit.ly": {
+                    "count": 21,
+                    "unique": 8
+                },
+                "DuckDuckGo": {
+                    "count": 11,
+                    "unique": 7
+                },
+                "enterprise.hackthebox.com": {
+                    "count": 5,
+                    "unique": 3
+                },
+                "perplexity.ai": {
+                    "count": 5,
+                    "unique": 1
+                }
+            },
+            "clones": {
                 "unique": 0,
                 "count": 0
             },
@@ -37811,8 +37863,8 @@
         "forks": 6,
         "totals": {
             "clones": {
-                "count": 1913393,
-                "unique": 1236669
+                "count": 1916501,
+                "unique": 1238684
             }
         },
         "2023-05-18": {
@@ -58057,6 +58109,30 @@
                 }
             },
             "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "traffic": {
+                "count": 1,
+                "unique": 1
+            }
+        },
+        "2025-12-25": {
+            "referrer": {
+                "Google": {
+                    "count": 5,
+                    "unique": 3
+                },
+                "github.com": {
+                    "count": 4,
+                    "unique": 2
+                },
+                "specterops.io": {
+                    "count": 1,
+                    "unique": 1
+                }
+            },
+            "clones": {
                 "unique": 0,
                 "count": 0
             },
@@ -58180,8 +58256,8 @@
         "forks": 9,
         "totals": {
             "clones": {
-                "count": 381102,
-                "unique": 297632
+                "count": 381934,
+                "unique": 298309
             }
         },
         "2023-05-18": {
@@ -76447,6 +76523,26 @@
                 }
             },
             "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
+        },
+        "2025-12-25": {
+            "referrer": {
+                "Google": {
+                    "count": 5,
+                    "unique": 4
+                },
+                "DuckDuckGo": {
+                    "count": 2,
+                    "unique": 2
+                }
+            },
+            "clones": {
                 "unique": 0,
                 "count": 0
             },
@@ -76570,8 +76666,8 @@
         "forks": 12,
         "totals": {
             "clones": {
-                "count": 300713,
-                "unique": 254855
+                "count": 301422,
+                "unique": 255466
             }
         },
         "2023-05-18": {
@@ -94291,6 +94387,26 @@
             }
         },
         "2025-12-24": {
+            "referrer": {
+                "Bing": {
+                    "count": 4,
+                    "unique": 4
+                },
+                "Google": {
+                    "count": 4,
+                    "unique": 2
+                }
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
+        },
+        "2025-12-25": {
             "referrer": {
                 "Bing": {
                     "count": 4,
