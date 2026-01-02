@@ -154,11 +154,11 @@
             },
             "referrer": {}
         },
-        "forks": 231,
+        "forks": 232,
         "totals": {
             "clones": {
-                "count": 4320262,
-                "unique": 2409683
+                "count": 4329718,
+                "unique": 2414701
             }
         },
         "2023-05-18": {
@@ -38060,6 +38060,58 @@
                 }
             },
             "clones": {
+                "unique": 18,
+                "count": 34
+            },
+            "traffic": {
+                "count": 47,
+                "unique": 35
+            }
+        },
+        "2026-01-02": {
+            "referrer": {
+                "Google": {
+                    "count": 286,
+                    "unique": 136
+                },
+                "academy.hackthebox.com": {
+                    "count": 94,
+                    "unique": 74
+                },
+                "specterops.io": {
+                    "count": 79,
+                    "unique": 46
+                },
+                "github.com": {
+                    "count": 54,
+                    "unique": 22
+                },
+                "Bing": {
+                    "count": 26,
+                    "unique": 12
+                },
+                "search.brave.com": {
+                    "count": 23,
+                    "unique": 6
+                },
+                "DuckDuckGo": {
+                    "count": 13,
+                    "unique": 9
+                },
+                "chatgpt.com": {
+                    "count": 7,
+                    "unique": 3
+                },
+                "enterprise.hackthebox.com": {
+                    "count": 4,
+                    "unique": 2
+                },
+                "perplexity.ai": {
+                    "count": 4,
+                    "unique": 2
+                }
+            },
+            "clones": {
                 "unique": 0,
                 "count": 0
             },
@@ -38227,8 +38279,8 @@
         "forks": 6,
         "totals": {
             "clones": {
-                "count": 1938301,
-                "unique": 1252833
+                "count": 1941420,
+                "unique": 1254858
             }
         },
         "2023-05-18": {
@@ -58657,6 +58709,26 @@
                 }
             },
             "clones": {
+                "unique": 2,
+                "count": 3
+            },
+            "traffic": {
+                "count": 1,
+                "unique": 1
+            }
+        },
+        "2026-01-02": {
+            "referrer": {
+                "Google": {
+                    "count": 7,
+                    "unique": 3
+                },
+                "DuckDuckGo": {
+                    "count": 2,
+                    "unique": 1
+                }
+            },
+            "clones": {
                 "unique": 0,
                 "count": 0
             },
@@ -58780,8 +58852,8 @@
         "forks": 9,
         "totals": {
             "clones": {
-                "count": 387766,
-                "unique": 303056
+                "count": 388604,
+                "unique": 303739
             }
         },
         "2023-05-18": {
@@ -77207,6 +77279,22 @@
                 }
             },
             "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
+        },
+        "2026-01-02": {
+            "referrer": {
+                "Google": {
+                    "count": 1,
+                    "unique": 1
+                }
+            },
+            "clones": {
                 "unique": 0,
                 "count": 0
             },
@@ -77330,8 +77418,8 @@
         "forks": 12,
         "totals": {
             "clones": {
-                "count": 306422,
-                "unique": 259780
+                "count": 307141,
+                "unique": 260401
             }
         },
         "2023-05-18": {
@@ -95223,6 +95311,30 @@
             }
         },
         "2026-01-01": {
+            "referrer": {
+                "Google": {
+                    "count": 19,
+                    "unique": 2
+                },
+                "Bing": {
+                    "count": 6,
+                    "unique": 1
+                },
+                "github.com": {
+                    "count": 4,
+                    "unique": 2
+                }
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "traffic": {
+                "count": 0,
+                "unique": 0
+            }
+        },
+        "2026-01-02": {
             "referrer": {
                 "Google": {
                     "count": 19,
