@@ -154,11 +154,11 @@
             },
             "referrer": {}
         },
-        "forks": 232,
+        "forks": 233,
         "totals": {
             "clones": {
-                "count": 4444974,
-                "unique": 2475884
+                "count": 4454909,
+                "unique": 2481105
             }
         },
         "2023-05-18": {
@@ -38695,44 +38695,44 @@
         "2026-01-15": {
             "referrer": {
                 "Google": {
-                    "count": 457,
-                    "unique": 190
+                    "count": 503,
+                    "unique": 210
                 },
                 "github.com": {
-                    "count": 192,
-                    "unique": 44
-                },
-                "academy.hackthebox.com": {
-                    "count": 107,
-                    "unique": 80
+                    "count": 202,
+                    "unique": 47
                 },
                 "specterops.io": {
+                    "count": 121,
+                    "unique": 72
+                },
+                "academy.hackthebox.com": {
                     "count": 103,
-                    "unique": 60
+                    "unique": 77
                 },
                 "Bing": {
-                    "count": 27,
-                    "unique": 16
+                    "count": 42,
+                    "unique": 21
                 },
                 "DuckDuckGo": {
-                    "count": 15,
-                    "unique": 11
+                    "count": 33,
+                    "unique": 15
                 },
                 "search.brave.com": {
-                    "count": 14,
-                    "unique": 12
+                    "count": 17,
+                    "unique": 15
                 },
                 "statics.teams.cdn.office.net": {
-                    "count": 10,
+                    "count": 11,
                     "unique": 6
                 },
                 "docs.sysreptor.com": {
-                    "count": 6,
-                    "unique": 5
+                    "count": 7,
+                    "unique": 6
                 },
-                "bit.ly": {
-                    "count": 5,
-                    "unique": 3
+                "usc-word-edit.officeapps.live.com": {
+                    "count": 6,
+                    "unique": 1
                 }
             },
             "clones": {
@@ -38743,6 +38743,17 @@
                 "count": 0,
                 "unique": 0
             }
+        },
+        "2026-01-14": {
+            "clones": {
+                "unique": 19,
+                "count": 79
+            },
+            "traffic": {
+                "count": 295,
+                "unique": 117
+            },
+            "referrer": {}
         }
     },
     "Ghostwriter_CLI": {
@@ -38903,8 +38914,8 @@
         "forks": 6,
         "totals": {
             "clones": {
-                "count": 1978907,
-                "unique": 1279217
+                "count": 1982035,
+                "unique": 1281251
             }
         },
         "2023-05-18": {
@@ -59752,8 +59763,8 @@
         "forks": 9,
         "totals": {
             "clones": {
-                "count": 398719,
-                "unique": 311994
+                "count": 399567,
+                "unique": 312687
             }
         },
         "2023-05-18": {
@@ -78514,8 +78525,8 @@
         "forks": 12,
         "totals": {
             "clones": {
-                "count": 315876,
-                "unique": 267950
+                "count": 316614,
+                "unique": 268585
             }
         },
         "2023-05-18": {
