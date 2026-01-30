@@ -157,8 +157,8 @@
         "forks": 238,
         "totals": {
             "clones": {
-                "count": 4598735,
-                "unique": 2556196
+                "count": 4609289,
+                "unique": 2561694
             }
         },
         "2023-05-18": {
@@ -39475,6 +39475,58 @@
                 }
             },
             "clones": {
+                "unique": 19,
+                "count": 29
+            },
+            "traffic": {
+                "count": 156,
+                "unique": 71
+            }
+        },
+        "2026-01-30": {
+            "referrer": {
+                "Google": {
+                    "count": 576,
+                    "unique": 218
+                },
+                "specterops.io": {
+                    "count": 134,
+                    "unique": 67
+                },
+                "academy.hackthebox.com": {
+                    "count": 109,
+                    "unique": 86
+                },
+                "github.com": {
+                    "count": 89,
+                    "unique": 32
+                },
+                "DuckDuckGo": {
+                    "count": 77,
+                    "unique": 18
+                },
+                "Bing": {
+                    "count": 33,
+                    "unique": 20
+                },
+                "t.co": {
+                    "count": 31,
+                    "unique": 27
+                },
+                "search.brave.com": {
+                    "count": 23,
+                    "unique": 16
+                },
+                "swisskyrepo.github.io": {
+                    "count": 16,
+                    "unique": 3
+                },
+                "bit.ly": {
+                    "count": 14,
+                    "unique": 5
+                }
+            },
+            "clones": {
                 "unique": 0,
                 "count": 0
             },
@@ -39642,8 +39694,8 @@
         "forks": 6,
         "totals": {
             "clones": {
-                "count": 2026126,
-                "unique": 1309970
+                "count": 2029308,
+                "unique": 1312044
             }
         },
         "2023-05-18": {
@@ -60711,6 +60763,30 @@
                 }
             },
             "clones": {
+                "unique": 5,
+                "count": 7
+            },
+            "traffic": {
+                "count": 16,
+                "unique": 3
+            }
+        },
+        "2026-01-30": {
+            "referrer": {
+                "github.com": {
+                    "count": 7,
+                    "unique": 2
+                },
+                "Google": {
+                    "count": 3,
+                    "unique": 3
+                },
+                "specterops.io": {
+                    "count": 2,
+                    "unique": 1
+                }
+            },
+            "clones": {
                 "unique": 0,
                 "count": 0
             },
@@ -60834,8 +60910,8 @@
         "forks": 9,
         "totals": {
             "clones": {
-                "count": 411612,
-                "unique": 322538
+                "count": 412484,
+                "unique": 323253
             }
         },
         "2023-05-18": {
@@ -79756,6 +79832,22 @@
                 }
             },
             "clones": {
+                "unique": 1,
+                "count": 1
+            },
+            "traffic": {
+                "count": 1,
+                "unique": 1
+            }
+        },
+        "2026-01-30": {
+            "referrer": {
+                "github.com": {
+                    "count": 1,
+                    "unique": 1
+                }
+            },
+            "clones": {
                 "unique": 0,
                 "count": 0
             },
@@ -79879,8 +79971,8 @@
         "forks": 12,
         "totals": {
             "clones": {
-                "count": 327040,
-                "unique": 277568
+                "count": 327794,
+                "unique": 278218
             }
         },
         "2023-05-18": {
@@ -98384,6 +98476,30 @@
         },
         "2026-01-29": {
             "referrer": {
+                "Google": {
+                    "count": 1,
+                    "unique": 1
+                },
+                "specterops.io": {
+                    "count": 1,
+                    "unique": 1
+                }
+            },
+            "clones": {
+                "unique": 0,
+                "count": 0
+            },
+            "traffic": {
+                "count": 21,
+                "unique": 3
+            }
+        },
+        "2026-01-30": {
+            "referrer": {
+                "Bing": {
+                    "count": 8,
+                    "unique": 2
+                },
                 "Google": {
                     "count": 1,
                     "unique": 1
