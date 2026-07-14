@@ -157,8 +157,8 @@
         "forks": 257,
         "totals": {
             "clones": {
-                "count": 8578341,
-                "unique": 4488014
+                "count": 8627936,
+                "unique": 4512791
             }
         },
         "2023-05-18": {
@@ -47850,6 +47850,58 @@
                 }
             },
             "clones": {
+                "unique": 192,
+                "count": 516
+            },
+            "traffic": {
+                "count": 148,
+                "unique": 44
+            }
+        },
+        "2026-07-14": {
+            "referrer": {
+                "Google": {
+                    "count": 288,
+                    "unique": 208
+                },
+                "github.com": {
+                    "count": 184,
+                    "unique": 58
+                },
+                "specterops.io": {
+                    "count": 61,
+                    "unique": 48
+                },
+                "academy.hackthebox.com": {
+                    "count": 61,
+                    "unique": 42
+                },
+                "Bing": {
+                    "count": 20,
+                    "unique": 16
+                },
+                "DuckDuckGo": {
+                    "count": 17,
+                    "unique": 13
+                },
+                "search.brave.com": {
+                    "count": 10,
+                    "unique": 5
+                },
+                "ghostwriter.wiki": {
+                    "count": 7,
+                    "unique": 4
+                },
+                "bit.ly": {
+                    "count": 4,
+                    "unique": 4
+                },
+                "swisskyrepo.github.io": {
+                    "count": 4,
+                    "unique": 3
+                }
+            },
+            "clones": {
                 "unique": 0,
                 "count": 0
             },
@@ -48017,8 +48069,8 @@
         "forks": 6,
         "totals": {
             "clones": {
-                "count": 2648693,
-                "unique": 1694746
+                "count": 2653423,
+                "unique": 1697526
             }
         },
         "2023-05-18": {
@@ -72773,6 +72825,30 @@
                 }
             },
             "clones": {
+                "unique": 4,
+                "count": 4
+            },
+            "traffic": {
+                "count": 2,
+                "unique": 2
+            }
+        },
+        "2026-07-14": {
+            "referrer": {
+                "github.com": {
+                    "count": 30,
+                    "unique": 10
+                },
+                "Google": {
+                    "count": 4,
+                    "unique": 4
+                },
+                "DuckDuckGo": {
+                    "count": 1,
+                    "unique": 1
+                }
+            },
+            "clones": {
                 "unique": 0,
                 "count": 0
             },
@@ -72896,8 +72972,8 @@
         "forks": 9,
         "totals": {
             "clones": {
-                "count": 574555,
-                "unique": 456031
+                "count": 575779,
+                "unique": 457042
             }
         },
         "2023-05-18": {
@@ -95362,6 +95438,26 @@
                 }
             },
             "clones": {
+                "unique": 4,
+                "count": 4
+            },
+            "traffic": {
+                "count": 3,
+                "unique": 3
+            }
+        },
+        "2026-07-14": {
+            "referrer": {
+                "github.com": {
+                    "count": 4,
+                    "unique": 4
+                },
+                "Google": {
+                    "count": 3,
+                    "unique": 3
+                }
+            },
+            "clones": {
                 "unique": 0,
                 "count": 0
             },
@@ -95485,8 +95581,8 @@
         "forks": 12,
         "totals": {
             "clones": {
-                "count": 465557,
-                "unique": 395972
+                "count": 466557,
+                "unique": 396813
             }
         },
         "2023-05-18": {
@@ -117127,6 +117223,26 @@
         "2026-07-13": {
             "referrer": {
                 "Google": {
+                    "count": 1,
+                    "unique": 1
+                }
+            },
+            "clones": {
+                "unique": 2,
+                "count": 2
+            },
+            "traffic": {
+                "count": 2,
+                "unique": 2
+            }
+        },
+        "2026-07-14": {
+            "referrer": {
+                "Google": {
+                    "count": 1,
+                    "unique": 1
+                },
+                "github.com": {
                     "count": 1,
                     "unique": 1
                 }
