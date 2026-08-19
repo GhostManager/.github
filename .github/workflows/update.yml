@@ -34,9 +34,30 @@ jobs:
 
       - name: Commit and push changes
         run: |-
-          git add .
-          git diff
           git config --global user.email "github-action-bot@specterops.io"
           git config --global user.name "GitHub Action Bot"
-          git commit -m "Updated insights data" -a || echo "No changes to commit"
-          git push
+          git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Updated insights data"
+
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            if [ "$attempt" -eq 3 ]; then
+              echo "Failed to push after 3 attempts"
+              exit 1
+            fi
+            git pull --rebase origin "${GITHUB_REF_NAME}" || {
+              if [ -d .git/rebase-merge ] || [ -d .git/rebase-apply ]; then
+                git rebase --abort
+              fi
+              echo "Failed to rebase onto origin/${GITHUB_REF_NAME}"
+              exit 1
+            }
+            sleep $((attempt * 5))
+          done
