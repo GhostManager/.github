@@ -1,6 +1,6 @@
-import json
-
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 from lib.logger import logger
 
@@ -15,8 +15,15 @@ class GitMetric:
         self.headers = {
             "Authorization": f"Bearer {token}",
             "X-GitHub-Api-Version": "2022-11-28",
-            "Accept": "application/vnd.github.v3+json"
+            "Accept": "application/vnd.github+json"
         }
+        self.session = requests.Session()
+        retries = Retry(
+            total=3,
+            backoff_factor=1,
+            status_forcelist=(429, 500, 502, 503, 504),
+        )
+        self.session.mount("https://", HTTPAdapter(max_retries=retries))
 
         self.base_url = "https://api.github.com"
         self.repo_url = f"{self.base_url}/repos/{owner}/{repo}"
@@ -27,14 +34,13 @@ class GitMetric:
         self.forks_url = f"{self.repo_url}/forks"
 
     def _get_response(self, url: str):
-        result = {}
         try:
-            response = requests.get(url, headers=self.headers)
+            response = self.session.get(url, headers=self.headers, timeout=20)
             response.raise_for_status()
-            result = response.json()
-        except requests.exceptions.HTTPError as err:
-            logger.error(f"HTTP error occurred: {err}")
-        return result
+            return response.json()
+        except (requests.exceptions.RequestException, ValueError):
+            logger.exception("GitHub API request failed for %s", url)
+            raise
 
     def get_referrers(self) -> list:
         logger.info(f"Getting referrers for {self.repo}")
